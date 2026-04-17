@@ -8,7 +8,7 @@ Profesor de Aplicaciones Estadísticas — Estudiante de Doctorado en Biotecnolo
 <a href="https://x.com/Palp311"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://bsky.app/profile/palp311.bsky.social"><img src="https://img.shields.io/badge/BLUESKY-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"></a>
 <a href="https://orcid.org/my-orcid?orcid=0000-0003-0550-6441"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
-<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
 
 ## 🔬 Sobre Mí
 * 🌾 **Investigación:** Centrada en el estrés térmico e hídrico en trigo candeal (*Triticum durum*), integrando análisis de Meta-QTL y enfoques multi-ómicos.
