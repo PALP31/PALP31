@@ -1,16 +1,19 @@
-## Hi there 👋
+# Paúl Alexander López Peña
 
-<!--
-**PALP31/PALP31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profesor de Aplicaciones Estadísticas — Estudiante de Doctorado en Biotecnología Vegetal — Pontificia Universidad Católica de Chile (PUC)
 
-Here are some ideas to get you started:
+[Triticum Tale](https://github.com/PALP31/triticum-tale-web) — [BioAgro-Stats](https://github.com/PALP31/BioAgro-Stats) — [Curriculum Vitae](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+<a href="mailto:tu.correo@uc.cl"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+## 🔬 Sobre Mí
+* 🌾 **Investigación:** Centrada en el estrés térmico e hídrico en trigo candeal (*Triticum durum*), integrando análisis de Meta-QTL y enfoques multi-ómicos.
+* 📊 **Docencia:** Enseño a integrar el rigor científico con herramientas computacionales modernas.
+* 💻 **Stack Tecnológico:** R (`tidyverse`, `DESeq2`, `mixOmics`), Python, ecosistema Quarto y flujos de trabajo en Obsidian.
+
+## 🚀 Proyectos Destacados
+* [**BioAgro-Stats:**](https://github.com/PALP31/BioAgro-Stats) Repositorio de análisis estadístico avanzado, modelos mixtos y modelado bayesiano diseñado para ciencias agrarias.
+* [**Triticum Tale:**](https://github.com/PALP31/triticum-tale-web) Sitio web interactivo y "Data Art" que explora visualmente la respuesta multi-ómica al estrés en cultivos.
