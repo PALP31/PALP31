@@ -5,9 +5,9 @@ Profesor de Aplicaciones Estadísticas — Estudiante de Doctorado en Biotecnolo
 [Triticum Tale](https://github.com/PALP31/triticum-tale-web) — [BioAgro-Stats](https://github.com/PALP31/BioAgro-Stats) — [Curriculum Vitae](#)
 
 <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://x.com/Palp311"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
-<a href="mailto:tu.correo@uc.cl"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="paullopezpena@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 ## 🔬 Sobre Mí
 * 🌾 **Investigación:** Centrada en el estrés térmico e hídrico en trigo candeal (*Triticum durum*), integrando análisis de Meta-QTL y enfoques multi-ómicos.
