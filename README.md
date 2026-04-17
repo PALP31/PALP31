@@ -18,3 +18,10 @@ Profesor de Aplicaciones Estadísticas — Estudiante de Doctorado en Biotecnolo
 ## 🚀 Proyectos Destacados
 * [**BioAgro-Stats:**](https://github.com/PALP31/BioAgro-Stats) Repositorio de análisis estadístico avanzado, modelos mixtos y modelado bayesiano diseñado para ciencias agrarias.
 * [**Triticum Tale:**](https://github.com/PALP31/triticum-tale-web) Sitio web interactivo y "Data Art" que explora visualmente la respuesta multi-ómica al estrés en cultivos.
+* <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PALP31&layout=compact&theme=vision-friendly-dark&hide=css,html" alt="PALP31's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PALP31&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="PALP31's GitHub Stats" />
+</p>
