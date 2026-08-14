@@ -19,11 +19,11 @@
 
 ### 🔬 Sobre Mí & Trayectoria Académica
 
-- 🎓 **Docencia Universitaria (PUC):** Profesor del curso de pregrado **Aplicaciones Estadísticas** en la **Pontificia Universidad Católica de Chile**, enseñando inferencia estadística, diseño experimental, modelos lineales y análisis de datos biológicos aplicados en R.
-- 🌾 **Investigación Doctoral:** Candidato/Estudiante de Doctorado en Biotecnología Vegetal (PUC), enfocado en la fisiología y tolerancia a estrés abiótico (térmico e hídrico) en trigo candeal (*Triticum durum*) mediante meta-QTLs y fenotipado de precisión.
-- 🧬 **Enfoque Multi-Ómico:** Integración analítica y computacional de capas de **Ionómica**, **Metabolómica** y **Transcriptómica** (RNA-seq / `DESeq2` / `mixOmics`).
-- 📈 **Bioestadística & Modelado Avanzado:** Modelos Lineales Mixtos (LMM), Modelos Lineales Generalizados Mixtos (GLMM), diseños Split-Plot, RCBD, diagnósticos residuales con `DHARMa` y contrastes marginales `emmeans`.
-- 💻 **Desarrollo de Software Científico:** Creador del paquete de R [`easyModels`](https://github.com/PALP31/easyModels), diseñado para transferir metodologías estadísticas avanzadas tanto al aula universitaria como a la investigación científica de alto impacto.
+- 🎓 **Docencia Universitaria (PUC):** Profesor del curso de pregrado **Aplicaciones Estadísticas** en la **Pontificia Universidad Católica de Chile**, formando a estudiantes en inferencia estadística, diseño experimental, modelos lineales y análisis de datos aplicados en R.
+- 🌾 **Investigación Doctoral:** Estudiante de Doctorado en Biotecnología Vegetal (PUC), enfocado en la tolerancia a estrés abiótico (térmico e hídrico) en trigo candeal (*Triticum durum*) mediante meta-QTLs y fenotipado de precisión.
+- 🧬 **Enfoque Multi-Ómico:** Integración computacional y bioestadística de capas de **Ionómica**, **Metabolómica** y **Transcriptómica** (RNA-seq / `DESeq2` / `mixOmics`).
+- 📈 **Bioestadística & Modelado Avanzado:** Modelos Lineales Mixtos (LMM), Modelos Lineales Generalizados Mixtos (GLMM), diseños Split-Plot, RCBD, Cuadrados Latinos, Medidas Repetidas, diagnósticos residuales con `DHARMa` y contrastes marginales `emmeans`.
+- 💻 **Desarrollo de Software Científico:** Creador del paquete de R [`easyModels`](https://github.com/PALP31/easyModels), diseñado para transferir flujos estadísticos reproducibles tanto al aula universitaria como a la investigación científica de alto impacto.
 
 ---
 
@@ -50,10 +50,10 @@
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/PALP31/easyModels">📦 easyModels</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/R_Package-v0.3.0-00e5bc?style=flat-square&logo=r" alt="R Package">
+        <img src="https://img.shields.io/badge/R_Package-v0.4.0-00e5bc?style=flat-square&logo=r" alt="R Package">
         <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status">
       </p>
-      <p>Paquete de R orientado a bioestadística aplicada y reproducible. Incluye arquitectura S3 unificada (<code>easy_model</code>), ajuste rápido de LM, GLM (17 familias), LMM y GLMM (16 distribuciones), wrappers para Split-Plot y RCBD, diagnósticos con <code>DHARMa</code>, contrastes post-hoc con letras de significancia (Tukey CLD) y gráficos listos para publicación.</p>
+      <p>Paquete de R para bioestadística aplicada y reproducible. Incluye arquitectura S3 unificada (<code>easy_model</code>), ajuste rápido de LM, GLM (17 familias), LMM y GLMM (16 distribuciones), wrappers de diseños experimentales (RCBD, Split-Plot, Cuadrado Latino, Medidas Repetidas, Strip-Plot), auditoría de supuestos (<code>verificar_supuestos</code>), selección de modelos (<code>comparar_modelos</code>), contrastes Tukey CLD y figuras científicas de publicación.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/PALP31/BioAgro-Stats">📊 BioAgro-Stats</a></h3>
