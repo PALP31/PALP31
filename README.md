@@ -2,7 +2,7 @@
 
 Profesor de Aplicaciones Estadísticas — Estudiante de Doctorado en Biotecnología Vegetal — Pontificia Universidad Católica de Chile (PUC)
 
-[Triticum Tale](https://github.com/PALP31/triticum-tale-web) — [BioAgro-Stats](https://github.com/PALP31/BioAgro-Stats) — [Curriculum Vitae](#)
+[easyModels](https://github.com/PALP31/easyModels) — [Triticum Tale](https://github.com/PALP31/triticum-tale-web) — [BioAgro-Stats](https://github.com/PALP31/BioAgro-Stats) — [Curriculum Vitae](#)
 
 <a href="https://www.linkedin.com/in/paúl-alexander-lópez-peña-ab6a0211b/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://x.com/Palp311"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
@@ -12,13 +12,15 @@ Profesor de Aplicaciones Estadísticas — Estudiante de Doctorado en Biotecnolo
 
 ## 🔬 Sobre Mí
 * 🌾 **Investigación:** Centrada en el estrés térmico e hídrico en trigo candeal (*Triticum durum*), integrando análisis de Meta-QTL y enfoques multi-ómicos.
-* 📊 **Docencia:** Enseño a integrar el rigor científico con herramientas computacionales modernas.
-* 💻 **Stack Tecnológico:** R (`tidyverse`, `DESeq2`, `mixOmics`), Python, ecosistema Quarto y flujos de trabajo en Obsidian.
+* 📊 **Docencia & Bioestadística:** Enseño a integrar el rigor científico con herramientas computacionales modernas y desarrollo paquetes estadísticos reproducibles en R.
+* 💻 **Stack Tecnológico:** R (`tidyverse`, `lme4`, `glmmTMB`, `emmeans`, `DESeq2`, `mixOmics`), Python, ecosistema Quarto y flujos de trabajo en Obsidian.
 
 ## 🚀 Proyectos Destacados
+* [**easyModels:**](https://github.com/PALP31/easyModels) Paquete de R para modelado bioestadístico avanzado (LM, GLM con 17 familias, LMM, GLMM con 16 distribuciones, Split-Plot y RCBD), diagnósticos unificados con DHARMa, comparaciones post-hoc con letras de significancia (Tukey CLD) y gráficos listos para publicación.
 * [**BioAgro-Stats:**](https://github.com/PALP31/BioAgro-Stats) Repositorio de análisis estadístico avanzado, modelos mixtos y modelado bayesiano diseñado para ciencias agrarias.
 * [**Triticum Tale:**](https://github.com/PALP31/triticum-tale-web) Sitio web interactivo y "Data Art" que explora visualmente la respuesta multi-ómica al estrés en cultivos.
-* <p align="center">
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PALP31&layout=compact&theme=vision-friendly-dark&hide=css,html" alt="PALP31's Top Languages" />
 </p>
 
