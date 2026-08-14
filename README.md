@@ -2,8 +2,8 @@
 
 # Paúl Alexander López Peña
 
-**Estudiante de Doctorado en Biotecnología Vegetal — Pontificia Universidad Católica de Chile**  
-*Bioestadística Aplicada • Modelado Mixto & GLMM • Genómica & Multi-Ómica en Cultivos*
+**Profesor de Aplicaciones Estadísticas (Pregrado) • Estudiante de Doctorado en Biotecnología Vegetal**  
+*Pontificia Universidad Católica de Chile (PUC)*
 
 <br/>
 
@@ -17,12 +17,13 @@
 
 ---
 
-### 🔬 Sobre Mí & Líneas de Investigación
+### 🔬 Sobre Mí & Trayectoria Académica
 
-- 🌾 **Fisiología & Estrés Abiótico:** Investigación doctoral centrada en la tolerancia a estrés térmico e hídrico en trigo candeal (*Triticum durum*), integrando fisiología vegetal, meta-QTLs y fenotipado experimental.
-- 🧬 **Enfoque Multi-Ómico:** Análisis integrativo de datos biológicos combinando **Ionómica**, **Metabolómica** y **Transcriptómica** (RNA-seq / `DESeq2` / `mixOmics`).
-- 📈 **Bioestadística & Modelado Avanzado:** Modelos Lineales Mixtos (LMM), Modelos Lineales Generalizados Mixtos (GLMM), diseños en Parcelas Divididas (Split-Plot), Bloques Completos al Azar (RCBD), diagnósticos residuales con `DHARMa` y contrastes marginales con `emmeans`.
-- 💻 **Desarrollo de Software Científico:** Creación de paquetes reproducibles en R ([`easyModels`](https://github.com/PALP31/easyModels)), pipelines bioinformáticos y comunicación académica mediante Quarto y Obsidian.
+- 🎓 **Docencia Universitaria (PUC):** Profesor del curso de pregrado **Aplicaciones Estadísticas** en la **Pontificia Universidad Católica de Chile**, enseñando inferencia estadística, diseño experimental, modelos lineales y análisis de datos biológicos aplicados en R.
+- 🌾 **Investigación Doctoral:** Candidato/Estudiante de Doctorado en Biotecnología Vegetal (PUC), enfocado en la fisiología y tolerancia a estrés abiótico (térmico e hídrico) en trigo candeal (*Triticum durum*) mediante meta-QTLs y fenotipado de precisión.
+- 🧬 **Enfoque Multi-Ómico:** Integración analítica y computacional de capas de **Ionómica**, **Metabolómica** y **Transcriptómica** (RNA-seq / `DESeq2` / `mixOmics`).
+- 📈 **Bioestadística & Modelado Avanzado:** Modelos Lineales Mixtos (LMM), Modelos Lineales Generalizados Mixtos (GLMM), diseños Split-Plot, RCBD, diagnósticos residuales con `DHARMa` y contrastes marginales `emmeans`.
+- 💻 **Desarrollo de Software Científico:** Creador del paquete de R [`easyModels`](https://github.com/PALP31/easyModels), diseñado para transferir metodologías estadísticas avanzadas tanto al aula universitaria como a la investigación científica de alto impacto.
 
 ---
 
@@ -33,10 +34,10 @@
 | Área | Herramientas & Ecosistema |
 | :--- | :--- |
 | **Lenguajes** | `R` • `Python` • `Bash / Zsh` • `SQL` |
-| **Bioestadística & Modelado** | `easyModels` • `lme4` • `glmmTMB` • `emmeans` • `car` • `DHARMa` • `scipy` • `statsmodels` |
+| **Bioestadística & Docencia** | `easyModels` • `lme4` • `glmmTMB` • `emmeans` • `car` • `DHARMa` • `scipy` • `statsmodels` |
 | **Genómica & Bioinformática** | `DESeq2` • `mixOmics` • `Bioconductor` • `tidyverse` • `ggplot2` |
 | **Publicación & Reproducibilidad** | `Quarto` • `R Markdown` • `Obsidian` • `LaTeX` • `Jupyter` |
-| **Desarrollo & Entorno** | `Posit / RStudio` • `VS Code` • `Git` • `GitHub Actions` • `macOS / Linux` |
+| **Desarrollo & Entornos** | `Posit / RStudio` • `VS Code` • `Git` • `GitHub Actions` • `macOS / Linux` |
 
 </div>
 
@@ -60,7 +61,7 @@
         <img src="https://img.shields.io/badge/R-Bioestadística-238636?style=flat-square&logo=r" alt="BioAgro-Stats">
         <img src="https://img.shields.io/badge/Ecosistema-Agronomía-blue?style=flat-square" alt="Ecosistema">
       </p>
-      <p>Repositorio de scripts de análisis estadístico avanzado, modelos lineales mixtos y modelado bayesiano diseñado para agronomía, fisiología de cultivos y ciencias biológicas.</p>
+      <p>Repositorio de scripts de análisis estadístico avanzado, modelos lineales mixtos y modelado bayesiano diseñado para agronomía, fisiología de cultivos y docencia universitaria.</p>
     </td>
   </tr>
   <tr>
@@ -73,12 +74,12 @@
       <p>Sitio interactivo y "Data Art" para comunicar visualmente las respuestas multi-ómicas y fisiológicas del trigo candeal (<em>Triticum durum</em>) ante estrés ambiental.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/PALP31">🔬 Investigación Doctoral</a></h3>
+      <h3 align="center"><a href="https://github.com/PALP31">🎓 Docencia & Investigación PUC</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/PUC--Chile-Doctorado-4dadf7?style=flat-square" alt="Doctorado">
-        <img src="https://img.shields.io/badge/Tesis-En_Curso-yellow?style=flat-square" alt="Tesis">
+        <img src="https://img.shields.io/badge/PUC--Chile-Docencia_%26_Doctorado-4dadf7?style=flat-square" alt="PUC Chile">
+        <img src="https://img.shields.io/badge/Pregrado-Aplicaciones_Estadísticas-00e5bc?style=flat-square" alt="Pregrado">
       </p>
-      <p>Flujos reproducibles, pipelines de transcriptómica, ionómica y fenotipado de precisión para el estudio de mecanismos de tolerancia térmica en antesis (Z65).</p>
+      <p>Cátedra de Aplicaciones Estadísticas (pregrado) e investigación doctoral en biotecnología vegetal, combinando rigor metodológico, programación científica y reproducibilidad.</p>
     </td>
   </tr>
 </table>
@@ -107,5 +108,5 @@
 ---
 
 <div align="center">
-  <sub>Diseñado con rigor científico y flujos reproducibles • Pontificia Universidad Católica de Chile</sub>
+  <sub>Pontificia Universidad Católica de Chile • Docencia Universitaria & Investigación en Biotecnología Vegetal</sub>
 </div>
