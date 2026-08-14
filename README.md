@@ -43,17 +43,17 @@
 
 ---
 
-### 🚀 Paquetes y Proyectos Destacados
+### 🚀 Paquetes y Ecosistemas Destacados
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/PALP31/easyModels">📦 easyModels</a></h3>
+      <h3 align="center"><a href="https://github.com/PALP31/easyModels">📦 easyModels (v0.4.0)</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/R_Package-v0.4.0-00e5bc?style=flat-square&logo=r" alt="R Package">
         <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status">
       </p>
-      <p>Paquete de R para bioestadística aplicada y reproducible. Incluye arquitectura S3 unificada (<code>easy_model</code>), ajuste rápido de LM, GLM (17 familias), LMM y GLMM (16 distribuciones), wrappers de diseños experimentales (RCBD, Split-Plot, Cuadrado Latino, Medidas Repetidas, Strip-Plot), auditoría de supuestos (<code>verificar_supuestos</code>), selección de modelos (<code>comparar_modelos</code>), contrastes Tukey CLD y figuras científicas de publicación.</p>
+      <p>Paquete de R para bioestadística aplicada y reproducible. Incluye arquitectura S3 unificada (<code>easy_model</code>), ajuste de LM, GLM, LMM y GLMM, diseños experimentales (RCBD, Split-Plot, Cuadrado Latino, Medidas Repetidas, Strip-Plot), verificación de supuestos (<code>verificar_supuestos</code>), selección de modelos con AIC/BIC (<code>comparar_modelos</code>) y figuras de publicación con letras de Tukey.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/PALP31/BioAgro-Stats">📊 BioAgro-Stats</a></h3>
@@ -61,28 +61,38 @@
         <img src="https://img.shields.io/badge/R-Bioestadística-238636?style=flat-square&logo=r" alt="BioAgro-Stats">
         <img src="https://img.shields.io/badge/Ecosistema-Agronomía-blue?style=flat-square" alt="Ecosistema">
       </p>
-      <p>Repositorio de scripts de análisis estadístico avanzado, modelos lineales mixtos y modelado bayesiano diseñado para agronomía, fisiología de cultivos y docencia universitaria.</p>
+      <p>Repositorio estructurado en 8 módulos para bioestadística avanzada: desde auditoría de supuestos, diseños experimentales y modelos no lineales (DRC log-logísticos) hasta modelos bayesianos con <code>brms</code>, Machine Learning y PCA Biplots fisiológicos.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/PALP31/Triticum-tale-web">🌾 Triticum Tale</a></h3>
+      <h3 align="center"><a href="https://github.com/PALP31/Triticum-tale-web">🌾 Triticum Tale Web</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Quarto-Web_Interactive-blueviolet?style=flat-square&logo=quarto" alt="Quarto">
         <img src="https://img.shields.io/badge/Data_Art-Multi--Omics-ff6b6b?style=flat-square" alt="Data Art">
       </p>
-      <p>Sitio interactivo y "Data Art" para comunicar visualmente las respuestas multi-ómicas y fisiológicas del trigo candeal (<em>Triticum durum</em>) ante estrés ambiental.</p>
+      <p>Portal web científico y plataforma de Data Storytelling interactiva en Quarto/Plotly para comunicar visualmente las respuestas multi-ómicas y fisiológicas de <em>Triticum durum</em> ante estrés térmico e hídrico.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/PALP31">🎓 Docencia & Investigación PUC</a></h3>
+      <h3 align="center"><a href="https://github.com/PALP31?tab=projects">📋 Gestión de Proyectos (GitHub Projects)</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/PUC--Chile-Docencia_%26_Doctorado-4dadf7?style=flat-square" alt="PUC Chile">
-        <img src="https://img.shields.io/badge/Pregrado-Aplicaciones_Estadísticas-00e5bc?style=flat-square" alt="Pregrado">
+        <img src="https://img.shields.io/badge/Projects-3_Activos-4dadf7?style=flat-square&logo=github" alt="Projects">
+        <img src="https://img.shields.io/badge/Status-Public-brightgreen?style=flat-square" alt="Status">
       </p>
-      <p>Cátedra de Aplicaciones Estadísticas (pregrado) e investigación doctoral en biotecnología vegetal, combinando rigor metodológico, programación científica y reproducibilidad.</p>
+      <p>Tableros interactivos de gestión ágil (Kanban & Roadmaps) para coordinar la investigación doctoral, el envío de <code>easyModels</code> a CRAN y la planificación de cursos de pregrado en la PUC.</p>
     </td>
   </tr>
 </table>
+
+---
+
+### 📋 Tableros de Proyectos Activos (GitHub Projects)
+
+| Proyecto | Enfoque | Tablero Interactivo |
+| :--- | :--- | :---: |
+| **🌾 Triticum Durum: Multi-Omics Pipeline** | Investigación doctoral en estrés térmico/hídrico y RNA-seq | [Ver Tablero Kanban ↗](https://github.com/users/PALP31/projects/1) |
+| **📦 easyModels: Development Roadmap to CRAN** | Suite de pruebas, documentación y release v1.0.0 a CRAN | [Ver Tablero Kanban ↗](https://github.com/users/PALP31/projects/2) |
+| **🏫 Bioestadística & Docencia PUC 2026** | Talleres prácticos 1-12, Quarto/Colab y proyecto final | [Ver Tablero Kanban ↗](https://github.com/users/PALP31/projects/3) |
 
 ---
 
