@@ -20,9 +20,9 @@
 ### 🔬 Sobre Mí & Trayectoria Académica
 
 - 🎓 **Docencia Universitaria (PUC):** Profesor del curso de pregrado **Aplicaciones Estadísticas** en la **Pontificia Universidad Católica de Chile**, formando a estudiantes en inferencia estadística, diseño experimental, modelos lineales y análisis de datos aplicados en R.
-- 🌾 **Investigación Doctoral:** Estudiante de Doctorado en Biotecnología Vegetal (PUC), enfocado en la tolerancia a estrés abiótico (térmico e hídrico) en trigo candeal (*Triticum durum*) mediante meta-QTLs y fenotipado de precisión.
-- 🧬 **Enfoque Multi-Ómico:** Integración computacional y bioestadística de capas de **Ionómica**, **Metabolómica** y **Transcriptómica** (RNA-seq / `DESeq2` / `mixOmics`).
-- 📈 **Bioestadística & Modelado Avanzado:** Modelos Lineales Mixtos (LMM), Modelos Lineales Generalizados Mixtos (GLMM), diseños Split-Plot, RCBD, Cuadrados Latinos, Medidas Repetidas, diagnósticos residuales con `DHARMa` y contrastes marginales `emmeans`.
+- 🌾 **Investigación Doctoral:** Estudiante de Doctorado en Biotecnología Vegetal (PUC), enfocado en la tolerancia a estrés abiótico (térmico e hídrico) en trigo candeal (*Triticum durum*) mediante **enfoques Multi-Ómicos (Ionómica, Transcriptómica y Metabolómica)** y **Fisiología Vegetal de Precisión**.
+- 🧬 **Enfoque Multi-Ómico & Bioinformática:** Integración computacional y bioestadística de capas de **Ionómica** ($K^+/Na^+$, micronutrientes), **Metabolómica** (perfiles antioxidantes, solutos compatibles, prolina, MDA) y **Transcriptómica** (RNA-seq / `DESeq2` / `mixOmics` / sPLS-DA).
+- 📈 **Bioestadística & Modelado Avanzado:** Modelos Lineales Mixtos (LMM), Modelos Lineales Generalizados Mixtos (GLMM), Modelos Aditivos Generalizados (**GAMs** con `mgcv`), **Estadística Bayesiana** (`brms` / `Stan`), Curvas Dosis-Respuesta No Lineales (**DRC** / modelos log-logísticos LL.4), Diseños Experimentales (Split-Plot, RCBD, Cuadrados Latinos, Medidas Repetidas, Strip-Plot), **Machine Learning** (`tidymodels`, Random Forest, XGBoost, SVM), diagnósticos residuales avanzados con `DHARMa` y contrastes marginales `emmeans`.
 - 💻 **Desarrollo de Software Científico:** Creador del paquete de R [`easyModels`](https://github.com/PALP31/easyModels), diseñado para transferir flujos estadísticos reproducibles tanto al aula universitaria como a la investigación científica de alto impacto.
 
 ---
@@ -34,8 +34,9 @@
 | Área | Herramientas & Ecosistema |
 | :--- | :--- |
 | **Lenguajes** | `R` • `Python` • `Bash / Zsh` • `SQL` |
-| **Bioestadística & Docencia** | `easyModels` • `lme4` • `glmmTMB` • `emmeans` • `car` • `DHARMa` • `scipy` • `statsmodels` |
-| **Genómica & Bioinformática** | `DESeq2` • `mixOmics` • `Bioconductor` • `tidyverse` • `ggplot2` |
+| **Bioestadística & Modelado** | `easyModels` • `lme4` • `glmmTMB` • `mgcv` (GAMs) • `brms / Stan` (Bayesiano) • `drc` • `emmeans` • `DHARMa` • `car` |
+| **Machine Learning & Data Science** | `tidymodels` • `xgboost` • `randomForest` • `vip` • `scipy` • `statsmodels` |
+| **Multi-Ómica & Bioinformática** | `DESeq2` • `mixOmics` (sPLS-DA) • `Bioconductor` • `tidyverse` • `ggplot2` • `pheatmap` |
 | **Publicación & Reproducibilidad** | `Quarto` • `R Markdown` • `Obsidian` • `LaTeX` • `Jupyter` |
 | **Desarrollo & Entornos** | `Posit / RStudio` • `VS Code` • `Git` • `GitHub Actions` • `macOS / Linux` |
 
@@ -61,7 +62,7 @@
         <img src="https://img.shields.io/badge/R-Bioestadística-238636?style=flat-square&logo=r" alt="BioAgro-Stats">
         <img src="https://img.shields.io/badge/Ecosistema-Agronomía-blue?style=flat-square" alt="Ecosistema">
       </p>
-      <p>Repositorio estructurado en 8 módulos para bioestadística avanzada: desde auditoría de supuestos, diseños experimentales y modelos no lineales (DRC log-logísticos) hasta modelos bayesianos con <code>brms</code>, Machine Learning y PCA Biplots fisiológicos.</p>
+      <p>Repositorio estructurado en 8 módulos para bioestadística avanzada: desde auditoría de supuestos, diseños experimentales y modelos no lineales (DRC log-logísticos) hasta modelos bayesianos con <code>brms</code>, Machine Learning (Random Forest, XGBoost) y PCA Biplots fisiológicos.</p>
     </td>
   </tr>
   <tr>
@@ -79,7 +80,7 @@
         <img src="https://img.shields.io/badge/Projects-3_Activos-4dadf7?style=flat-square&logo=github" alt="Projects">
         <img src="https://img.shields.io/badge/Status-Public-brightgreen?style=flat-square" alt="Status">
       </p>
-      <p>Tableros interactivos de gestión ágil (Kanban & Roadmaps) para coordinar la investigación doctoral, el envío de <code>easyModels</code> a CRAN y la planificación de cursos de pregrado en la PUC.</p>
+      <p>Tableros interactivos de gestión ágil (Kanban & Roadmaps) para coordinar la investigación doctoral multi-ómica, el roadmap de <code>easyModels</code> a CRAN y la planificación de cursos de pregrado en la PUC.</p>
     </td>
   </tr>
 </table>
@@ -90,7 +91,7 @@
 
 | Proyecto | Enfoque | Tablero Interactivo |
 | :--- | :--- | :---: |
-| **🌾 Triticum Durum: Multi-Omics Pipeline** | Investigación doctoral en estrés térmico/hídrico y RNA-seq | [Ver Tablero Kanban ↗](https://github.com/users/PALP31/projects/1) |
+| **🌾 Triticum Durum: Multi-Omics Pipeline** | Investigación doctoral en estrés térmico/hídrico, Ionómica, Transcriptómica y Metabolómica | [Ver Tablero Kanban ↗](https://github.com/users/PALP31/projects/1) |
 | **📦 easyModels: Development Roadmap to CRAN** | Suite de pruebas, documentación y release v1.0.0 a CRAN | [Ver Tablero Kanban ↗](https://github.com/users/PALP31/projects/2) |
 | **🏫 Bioestadística & Docencia PUC 2026** | Talleres prácticos 1-12, Quarto/Colab y proyecto final | [Ver Tablero Kanban ↗](https://github.com/users/PALP31/projects/3) |
 
