@@ -41,7 +41,7 @@
 | :--- | :--- |
 | **Lenguajes** | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
 | **Estadística Bayesiana & Modelos** | ![Stan](https://img.shields.io/badge/Stan_/_brms-343434?style=flat-square&logo=stan&logoColor=white) ![easyModels](https://img.shields.io/badge/easyModels-00e5bc?style=flat-square&logo=r&logoColor=black) `piecewiseSEM` `lme4` `glmmTMB` `mgcv (GAMs)` `brms` `bayesplot` `tidybayes` `drc` `emmeans` `DHARMa` |
-| **Diseño Experimental** | `agricolae` `emmeans` `desplot` `Alpha-Lattice` `Split-Plot` `RCBD` `Power Analysis` |
+| **Diseño Experimental** | ![agriDesignR](https://img.shields.io/badge/agriDesignR-52b788?style=flat-square&logo=r&logoColor=white) `agricolae` `emmeans` `desplot` `Alpha-Lattice` `Split-Plot` `RCBD` `Power Analysis` |
 | **Multi-Ómica & Bioinformática** | `DESeq2` `mixOmics (sPLS-DA)` `WGCNA` `Bioconductor` `tidyverse` `ggplot2` `pheatmap` `ComplexHeatmap` |
 | **Microbioma & Biocontrol** | `Dose-Response (drc)` `Dual-Culture Kinetics` `PhytoMicrobiome Stats` `Bioassays Phenotyping` |
 | **Publicación & Reproducibilidad** | ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat-square&logo=quarto&logoColor=white) ![RMarkdown](https://img.shields.io/badge/R_Markdown-198CE7?style=flat-square&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white) |
@@ -64,6 +64,9 @@
   <tr>
     <!-- 0. agriDesignR (NEW FEATURED PACKAGE) -->
     <td width="100%" colspan="2" valign="top">
+      <a href="https://github.com/PALP31/agriDesignR">
+        <img src="https://raw.githubusercontent.com/PALP31/agriDesignR/main/man/figures/logo.png" align="right" width="105" alt="agriDesignR hex logo" />
+      </a>
       <h3><a href="https://github.com/PALP31/agriDesignR">🌱 agriDesignR (v0.1.0) — Motor Asistido de Diseño Experimental y Modelos Mixtos</a></h3>
       <p>
         <img src="https://img.shields.io/badge/R_Package-v0.1.0-00e5bc?style=flat-square&logo=r" alt="R Package">
@@ -76,6 +79,7 @@
       <p><code>remotes::install_github("PALP31/agriDesignR")</code></p>
     </td>
   </tr>
+
   <tr>
     <!-- 1. easyModels -->
     <td width="50%" valign="top">
