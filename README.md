@@ -41,6 +41,7 @@
 | :--- | :--- |
 | **Lenguajes** | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
 | **Estadística Bayesiana & Modelos** | ![Stan](https://img.shields.io/badge/Stan_/_brms-343434?style=flat-square&logo=stan&logoColor=white) ![easyModels](https://img.shields.io/badge/easyModels-00e5bc?style=flat-square&logo=r&logoColor=black) `piecewiseSEM` `lme4` `glmmTMB` `mgcv (GAMs)` `brms` `bayesplot` `tidybayes` `drc` `emmeans` `DHARMa` |
+| **Diseño Experimental** | `agricolae` `emmeans` `desplot` `Alpha-Lattice` `Split-Plot` `RCBD` `Power Analysis` |
 | **Multi-Ómica & Bioinformática** | `DESeq2` `mixOmics (sPLS-DA)` `WGCNA` `Bioconductor` `tidyverse` `ggplot2` `pheatmap` `ComplexHeatmap` |
 | **Microbioma & Biocontrol** | `Dose-Response (drc)` `Dual-Culture Kinetics` `PhytoMicrobiome Stats` `Bioassays Phenotyping` |
 | **Publicación & Reproducibilidad** | ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat-square&logo=quarto&logoColor=white) ![RMarkdown](https://img.shields.io/badge/R_Markdown-198CE7?style=flat-square&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white) |
@@ -54,6 +55,7 @@
 
 <table>
   <tr>
+    <!-- 1. easyModels -->
     <td width="50%" valign="top">
       <a href="https://github.com/PALP31/easyModels">
         <img src="https://raw.githubusercontent.com/PALP31/easyModels/main/man/figures/logo.png" align="right" width="95" alt="easyModels hex logo" />
@@ -65,6 +67,7 @@
       </p>
       <p>Paquete de R para bioestadística aplicada y reproducible. Incluye arquitectura S3 unificada (<code>easy_model</code>), ajuste automático de LM, GLM, LMM y GLMM, diseños experimentales (RCBD, Split-Plot, Cuadrado Latino, Medidas Repetidas), verificación de supuestos (<code>verificar_supuestos</code>), selección de modelos con AIC/BIC y figuras de publicación con letras de Tukey.</p>
     </td>
+    <!-- 2. Plant-Microbiome-Biocontrol -->
     <td width="50%" valign="top">
       <h3><a href="https://github.com/PALP31/Plant-Microbiome-Biocontrol">🦠 Plant-Microbiome-Biocontrol</a></h3>
       <p>
@@ -75,36 +78,41 @@
     </td>
   </tr>
   <tr>
+    <!-- 3. BioAgro-Stats -->
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/PALP31/Plant-MultiOmics-Framework">🌾 Plant-MultiOmics-Framework</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Multi--Omics-Ionomics_%7C_RNAseq_%7C_Metabolomics-ff6b6b?style=flat-square&logo=quarto" alt="Multi-Omics">
-        <img src="https://img.shields.io/badge/Integration-mixOmics_DIABLO-blueviolet?style=flat-square" alt="Integration">
+      <h3 align="center"><a href="https://github.com/PALP31/BioAgro-Stats">📊 BioAgro-Stats</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/R-Bioestadística-238636?style=flat-square&logo=r" alt="BioAgro-Stats">
+        <img src="https://img.shields.io/badge/Bayesiano-brms_/_Stan-purple?style=flat-square&logo=stan" alt="Bayesiano">
       </p>
-      <p>Framework bioinformático para la integración multi-capa en fisiología del estrés vegetal: procesamiento de perfiles de Ionómica (ICP-OES $K^+/Na^+$), Transcriptómica (RNA-seq, <code>DESeq2</code>, <code>WGCNA</code>) y Metabolómica antioxidante mediante sPLS-DA (DIABLO) y redes biológicas.</p>
+      <p>Repositorio estructurado en 8 módulos para bioestadística avanzada: desde auditoría de supuestos, diseños experimentales y modelos no lineales (DRC log-logísticos) hasta modelos bayesianos con <code>brms</code>, Machine Learning (Random Forest, XGBoost) y PCA Biplots fisiológicos.</p>
     </td>
+    <!-- 4. Triticum-tale-web -->
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/PALP31/Bayesian-Biostats">🎲 Bayesian-Biostats</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Bayes-brms_%2F_Stan-purple?style=flat-square&logo=stan" alt="Stan">
-        <img src="https://img.shields.io/badge/SEM-Piecewise_SEM-38bdf8?style=flat-square" alt="Piecewise SEM">
+      <h3 align="center"><a href="https://github.com/PALP31/Triticum-tale-web">🌾 Triticum Tale Web</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Quarto-Web_Interactive-blueviolet?style=flat-square&logo=quarto" alt="Quarto">
+        <img src="https://img.shields.io/badge/Data_Art-Multi--Omics-ff6b6b?style=flat-square" alt="Data Art">
       </p>
-      <p>Repositorio dedicado a la inferencia bayesiana aplicada y modelos estructurales: GLMM jerárquicos con <code>brms</code> y <code>Stan</code>, especificación de <em>priors</em>, diagnósticos rigurosos MCMC ($\hat{R}$, ESS, trace plots), validación LOO-CV y <strong>Piecewise SEM</strong> para modelado causal.</p>
+      <p>Portal web científico y plataforma de Data Storytelling interactiva en Quarto/Plotly para comunicar visualmente las respuestas multi-ómicas y fisiológicas de <em>Triticum durum</em> ante estrés térmico e hídrico.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📋 Repositorios & Ecosistemas Principales
+### 📋 Ecosistemas y Repositorios Especializados
 
 | Repositorio | Especialidad & Enfoque | Acceso Directo |
 | :--- | :--- | :---: |
-| **📦 easyModels** | Desarrollo de paquete R para bioestadística y modelos mixtos | [Ver Repositorio ↗](https://github.com/PALP31/easyModels) |
+| **📦 easyModels** | Paquete de R para bioestadística automatizada y modelos mixtos | [Ver Repositorio ↗](https://github.com/PALP31/easyModels) |
 | **🦠 Plant-Microbiome-Biocontrol** | *Trichoderma*, PGPR, endófitos, biocontrol y mitigación de estrés | [Ver Repositorio ↗](https://github.com/PALP31/Plant-Microbiome-Biocontrol) |
+| **📊 BioAgro-Stats** | Módulos estadísticos para agronomía, DRC, GAMs y Machine Learning | [Ver Repositorio ↗](https://github.com/PALP31/BioAgro-Stats) |
+| **🌾 Triticum-tale-web** | Plataforma interactiva en Quarto/Plotly de respuestas a estrés | [Ver Repositorio ↗](https://github.com/PALP31/Triticum-tale-web) |
+| **📐 Experimental-Design-Lab** | RCBD, Split-Plot, Cuadrados Latinos, Alpha-Lattice y Potencia | [Ver Repositorio ↗](https://github.com/PALP31/Experimental-Design-Lab) |
+| **📈 Statistical-Modeling-Mastery** | Ruta progresiva de modelado: de LM/GLM a DRC, GAMs y Bayesiano | [Ver Repositorio ↗](https://github.com/PALP31/Statistical-Modeling-Mastery) |
 | **🌾 Plant-MultiOmics-Framework** | Ionómica, Transcriptómica RNA-seq, Metabolómica y sPLS-DA | [Ver Repositorio ↗](https://github.com/PALP31/Plant-MultiOmics-Framework) |
 | **🎲 Bayesian-Biostats** | Modelado Bayesiano con `brms`/`Stan`, MCMC y Piecewise SEM | [Ver Repositorio ↗](https://github.com/PALP31/Bayesian-Biostats) |
-| **📊 BioAgro-Stats** | Módulos estadísticos para agronomía, DRC, GAMs y Machine Learning | [Ver Repositorio ↗](https://github.com/PALP31/BioAgro-Stats) |
 
 ---
 
