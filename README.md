@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Dynamic Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030508,40:0f172a,80:005f73,100:00e5bc&height=220&section=header&text=Paúl%20Alexander%20López%20Peña&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Docencia%20Universitaria%20(PUC)%20•%20Biotecnología%20Vegetal%20&%20Multi-Ómica%20•%20Bioestadística%20en%20R&descFontSize=16&descAlignY=62&descColor=00e5bc" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030508,40:0f172a,80:005f73,100:00e5bc&height=220&section=header&text=Paúl%20Alexander%20López%20Peña&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Docencia%20Universitaria%20(PUC)%20•%20Biotecnología%20Vegetal%20&%20Multi-Ómica%20•%20Estadística%20Bayesiana%20&%20R&descFontSize=16&descAlignY=62&descColor=00e5bc" width="100%" alt="Header Banner" />
 
 <br/>
 
@@ -26,8 +26,9 @@
 
 - 🎓 **Docencia Universitaria (PUC):** Profesor del curso de pregrado **Aplicaciones Estadísticas** en la **Pontificia Universidad Católica de Chile**, formando a estudiantes en inferencia estadística, diseño experimental, modelos lineales y análisis de datos aplicados en R.
 - 🌾 **Investigación Doctoral:** Estudiante de Doctorado en Biotecnología Vegetal (PUC), enfocado en la tolerancia a estrés abiótico (térmico e hídrico) en trigo candeal (*Triticum durum*) mediante **enfoques Multi-Ómicos (Ionómica, Transcriptómica y Metabolómica)** y **Fisiología Vegetal de Precisión**.
+- 🎲 **Estadística Bayesiana & Inferencia MCMC:** Modelado jerárquico bayesiano avanzado con **`brms`** y **`Stan`**, calibración de *priors* informativos y regularizadores, diagnósticos rigurosos de convergencia de cadenas MCMC ($\hat{R}$, ESS, *trace plots*), validación predictiva cruzada (**LOO-CV / WAIC**) y chequeos predictivos posteriores (*Posterior Predictive Checks - PPC*).
 - 🧬 **Enfoque Multi-Ómico & Bioinformática:** Integración computacional y bioestadística de capas de **Ionómica** ($K^+/Na^+$, micronutrientes), **Metabolómica** (perfiles antioxidantes, solutos compatibles, prolina, MDA) y **Transcriptómica** (RNA-seq / `DESeq2` / `mixOmics` / sPLS-DA).
-- 📈 **Bioestadística & Modelado Avanzado:** Modelos Lineales Mixtos (LMM), Modelos Lineales Generalizados Mixtos (GLMM), Modelos Aditivos Generalizados (**GAMs** con `mgcv`), **Estadística Bayesiana** (`brms` / `Stan`), Curvas Dosis-Respuesta No Lineales (**DRC** / modelos log-logísticos LL.4), Diseños Experimentales (Split-Plot, RCBD, Cuadrados Latinos, Medidas Repetidas, Strip-Plot), **Machine Learning** (`tidymodels`, Random Forest, XGBoost, SVM), diagnósticos residuales avanzados con `DHARMa` y contrastes marginales `emmeans`.
+- 📈 **Bioestadística & Modelado Avanzado:** Modelos Lineales Mixtos (LMM), Modelos Lineales Generalizados Mixtos (GLMM), Modelos Aditivos Generalizados (**GAMs** con `mgcv`), Curvas Dosis-Respuesta No Lineales (**DRC** / modelos log-logísticos LL.4), Diseños Experimentales (Split-Plot, RCBD, Cuadrados Latinos, Medidas Repetidas, Strip-Plot), **Machine Learning** (`tidymodels`, Random Forest, XGBoost, SVM), diagnósticos residuales avanzados con `DHARMa` y contrastes marginales `emmeans`.
 - 💻 **Desarrollo de Software Científico:** Creador del paquete de R [`easyModels`](https://github.com/PALP31/easyModels), diseñado para transferir flujos estadísticos reproducibles tanto al aula universitaria como a la investigación científica de alto impacto.
 
 ---
@@ -39,7 +40,7 @@
 | Área | Tecnologías & Librerías |
 | :--- | :--- |
 | **Lenguajes** | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **Bioestadística & Modelos** | ![easyModels](https://img.shields.io/badge/easyModels-00e5bc?style=flat-square&logo=r&logoColor=black) `lme4` `glmmTMB` `mgcv (GAMs)` `brms / Stan` `drc` `emmeans` `DHARMa` `car` |
+| **Estadística Bayesiana & Modelos** | ![Stan](https://img.shields.io/badge/Stan_/_brms-343434?style=flat-square&logo=stan&logoColor=white) ![easyModels](https://img.shields.io/badge/easyModels-00e5bc?style=flat-square&logo=r&logoColor=black) `lme4` `glmmTMB` `mgcv (GAMs)` `brms (Bayesiano)` `bayesplot` `tidybayes` `drc` `emmeans` `DHARMa` |
 | **Multi-Ómica & Bioinformática** | `DESeq2` `mixOmics (sPLS-DA)` `Bioconductor` `tidyverse` `ggplot2` `pheatmap` `ComplexHeatmap` |
 | **Machine Learning & Data Science** | `tidymodels` `xgboost` `randomForest` `scikit-learn` `scipy` `statsmodels` `pingouin` |
 | **Publicación & Reproducibilidad** | ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat-square&logo=quarto&logoColor=white) ![RMarkdown](https://img.shields.io/badge/R_Markdown-198CE7?style=flat-square&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white) |
@@ -68,9 +69,9 @@
       <h3 align="center"><a href="https://github.com/PALP31/BioAgro-Stats">📊 BioAgro-Stats</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/R-Bioestadística-238636?style=flat-square&logo=r" alt="BioAgro-Stats">
-        <img src="https://img.shields.io/badge/Ecosistema-Agronomía-blue?style=flat-square" alt="Ecosistema">
+        <img src="https://img.shields.io/badge/Bayesiano-brms_/_Stan-purple?style=flat-square&logo=stan" alt="Bayesiano">
       </p>
-      <p>Repositorio estructurado en 8 módulos para bioestadística avanzada: desde auditoría de supuestos, diseños experimentales y modelos no lineales (DRC log-logísticos) hasta modelos bayesianos con <code>brms</code>, Machine Learning (Random Forest, XGBoost) y PCA Biplots fisiológicos.</p>
+      <p>Repositorio estructurado en 8 módulos para bioestadística avanzada: desde auditoría de supuestos, diseños experimentales y modelos no lineales (DRC log-logísticos) hasta <strong>modelos bayesianos jerárquicos con <code>brms</code> y <code>Stan</code></strong>, Machine Learning (Random Forest, XGBoost) y PCA Biplots fisiológicos.</p>
     </td>
   </tr>
   <tr>
