@@ -1,17 +1,28 @@
 <div align="center">
 
-# Paúl Alexander López Peña
+<!-- Header Dynamic Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030508,40:0f172a,80:005f73,100:00e5bc&height=220&section=header&text=Paúl%20Alexander%20López%20Peña&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Docencia%20Universitaria%20(PUC)%20•%20Biotecnología%20Vegetal%20&%20Multi-Ómica%20•%20Bioestadística%20en%20R&descFontSize=16&descAlignY=62&descColor=00e5bc" width="100%" alt="Header Banner" />
 
-**Profesor de Aplicaciones Estadísticas (Pregrado) • Estudiante de Doctorado en Biotecnología Vegetal**  
-*Pontificia Universidad Católica de Chile (PUC)*
+<!-- Dynamic Typing Effect -->
+<a href="https://github.com/PALP31">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00E5BC&center=true&vCenter=true&width=750&lines=🌾+PhD+Researcher+in+Durum+Wheat+Multi-Omics;📦+R+Package+Developer+(easyModels);🧬+Ionomics+•+Transcriptomics+•+Metabolomics;📈+Bioinformatics+•+Bayesian+Stats+•+GAMs+•+LMM;🎓+Lecturer+in+Applied+Statistics+@+PUC+Chile;🤖+Autonomous+AI+Agents+&+Scientific+Computing" alt="Typing SVG" />
+</a>
 
-<br/>
+<br/><br/>
 
+<!-- Profile Metrics & Social Links -->
 [![Profile Views](https://komarev.com/ghpvc/?username=PALP31&color=00e5bc&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/PALP31)
 <a href="https://orcid.org/0000-0003-0550-6441"><img src="https://img.shields.io/badge/ORCID-0000--0003--0550--6441-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
 <a href="https://www.linkedin.com/in/paúl-alexander-lópez-peña-ab6a0211b/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://x.com/Palp311"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://bsky.app/profile/palp311.bsky.social"><img src="https://img.shields.io/badge/BLUESKY-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"></a>
+
+<br/><br/>
+
+<!-- GitHub Trophies -->
+<a href="https://github.com/PALP31">
+  <img src="https://github-profile-trophy.vercel.app/?username=PALP31&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -31,14 +42,14 @@
 
 <div align="center">
 
-| Área | Herramientas & Ecosistema |
+| Área | Tecnologías & Librerías |
 | :--- | :--- |
-| **Lenguajes** | `R` • `Python` • `Bash / Zsh` • `SQL` |
-| **Bioestadística & Modelado** | `easyModels` • `lme4` • `glmmTMB` • `mgcv` (GAMs) • `brms / Stan` (Bayesiano) • `drc` • `emmeans` • `DHARMa` • `car` |
-| **Machine Learning & Data Science** | `tidymodels` • `xgboost` • `randomForest` • `vip` • `scipy` • `statsmodels` |
-| **Multi-Ómica & Bioinformática** | `DESeq2` • `mixOmics` (sPLS-DA) • `Bioconductor` • `tidyverse` • `ggplot2` • `pheatmap` |
-| **Publicación & Reproducibilidad** | `Quarto` • `R Markdown` • `Obsidian` • `LaTeX` • `Jupyter` |
-| **Desarrollo & Entornos** | `Posit / RStudio` • `VS Code` • `Git` • `GitHub Actions` • `macOS / Linux` |
+| **Lenguajes** | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Bioestadística & Modelos** | ![easyModels](https://img.shields.io/badge/easyModels-00e5bc?style=flat-square&logo=r&logoColor=black) `lme4` `glmmTMB` `mgcv (GAMs)` `brms / Stan` `drc` `emmeans` `DHARMa` `car` |
+| **Multi-Ómica & Bioinformática** | `DESeq2` `mixOmics (sPLS-DA)` `Bioconductor` `tidyverse` `ggplot2` `pheatmap` `ComplexHeatmap` |
+| **Machine Learning & Data Science** | `tidymodels` `xgboost` `randomForest` `scikit-learn` `scipy` `statsmodels` `pingouin` |
+| **Publicación & Reproducibilidad** | ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat-square&logo=quarto&logoColor=white) ![RMarkdown](https://img.shields.io/badge/R_Markdown-198CE7?style=flat-square&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white) |
+| **Entornos & DevOps** | ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 </div>
 
@@ -111,7 +122,10 @@
   <br/><br/>
 
   <a href="https://github.com/PALP31">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PALP31&bg_color=0d1117&color=00e5bc&line=00e5bc&point=38bdf8&area=true&hide_border=true" alt="Gráfico de Actividad de PALP31" width="99%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PALP31&theme=dark&background=0D1117&border=30363D&stroke=00E5BC&ring=00E5BC&fire=00E5BC&currStreakLabel=00E5BC" alt="GitHub Streak Stats" width="49%" />
+  </a>
+  <a href="https://github.com/PALP31">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PALP31&bg_color=0d1117&color=00e5bc&line=00e5bc&point=38bdf8&area=true&hide_border=true" alt="Gráfico de Actividad de PALP31" width="49%" />
   </a>
 
 </div>
@@ -119,5 +133,6 @@
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5bc,50:005f73,100:030508&height=100&section=footer" width="100%" alt="Footer Wave" />
   <sub>Pontificia Universidad Católica de Chile • Docencia Universitaria & Investigación en Biotecnología Vegetal</sub>
 </div>
