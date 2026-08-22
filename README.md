@@ -52,9 +52,30 @@
 
 ---
 
-### 🚀 Ecosistemas y Repositorios Destacados
+### 🚀 Ecosistemas y Paquetes de R Destacados
+
+<div align="center">
+  <a href="https://github.com/PALP31/agriDesignR">
+    <img src="https://raw.githubusercontent.com/PALP31/agriDesignR/main/man/figures/agriDesignR_banner.png" alt="agriDesignR Banner" width="100%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+  </a>
+</div>
 
 <table>
+  <tr>
+    <!-- 0. agriDesignR (NEW FEATURED PACKAGE) -->
+    <td width="100%" colspan="2" valign="top">
+      <h3><a href="https://github.com/PALP31/agriDesignR">🌱 agriDesignR (v0.1.0) — Motor Asistido de Diseño Experimental y Modelos Mixtos</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/R_Package-v0.1.0-00e5bc?style=flat-square&logo=r" alt="R Package">
+        <img src="https://img.shields.io/badge/Tests-81%20Passing%20(100%25)-2ecc71.svg?style=flat-square" alt="Tests">
+        <img src="https://img.shields.io/badge/Shiny_GUI-launch__app()-52b788.svg?style=flat-square&logo=RStudio&logoColor=white" alt="Shiny GUI">
+        <img src="https://img.shields.io/badge/Mixed_Models-lme4_%7C_nlme_%7C_glmmTMB-4dadf7.svg?style=flat-square" alt="Engines">
+        <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License">
+      </p>
+      <p>Motor de decisión inteligente para ciencias agronómicas y biológicas. Conecta el ciclo completo: <strong>Planificación Pre-Ensayo</strong> (diagnóstico de gradientes de invernadero/campo, cálculo de réplicas, croquis de mesas 2D y plantillas CSV de siembra), <strong>Modelado Mixto Multi-Motor</strong> (LMM Kenward-Roger, GLMM, no paramétricos), <strong>Remedios Automáticos</strong> (Box-Cox, varIdent, GLMM Gamma/NB), <strong>Eficiencia Relativa de Bloqueo</strong> (Cochran & Cox), <strong>Efectos Simples en Factoriales 2 y 3 Vías</strong>, <strong>Figuras de Publicación</strong> (Nature style) y <strong>App Web Interactiva</strong> (<code>launch_app()</code>).</p>
+      <p><code>remotes::install_github("PALP31/agriDesignR")</code></p>
+    </td>
+  </tr>
   <tr>
     <!-- 1. easyModels -->
     <td width="50%" valign="top">
@@ -106,6 +127,7 @@
 
 | Repositorio | Especialidad & Enfoque | Acceso Directo |
 | :--- | :--- | :---: |
+| **🌱 agriDesignR** | Motor Asistido de Diseño Experimental, Modelos Mixtos y Shiny GUI | [Ver Repositorio ↗](https://github.com/PALP31/agriDesignR) |
 | **📦 easyModels** | Paquete de R para bioestadística automatizada y modelos mixtos | [Ver Repositorio ↗](https://github.com/PALP31/easyModels) |
 | **🦠 Plant-Microbiome-Biocontrol** | *Trichoderma*, PGPR, endófitos, biocontrol y mitigación de estrés | [Ver Repositorio ↗](https://github.com/PALP31/Plant-Microbiome-Biocontrol) |
 | **📊 BioAgro-Stats** | Módulos estadísticos para agronomía, DRC, GAMs y Machine Learning | [Ver Repositorio ↗](https://github.com/PALP31/BioAgro-Stats) |
@@ -114,6 +136,7 @@
 | **📈 Statistical-Modeling-Mastery** | Ruta progresiva de modelado: de LM/GLM a DRC, GAMs y Bayesiano | [Ver Repositorio ↗](https://github.com/PALP31/Statistical-Modeling-Mastery) |
 | **🌾 Plant-MultiOmics-Framework** | Ionómica, Transcriptómica RNA-seq, Metabolómica y sPLS-DA | [Ver Repositorio ↗](https://github.com/PALP31/Plant-MultiOmics-Framework) |
 | **🎲 Bayesian-Biostats** | Modelado Bayesiano con `brms`/`Stan`, MCMC y Piecewise SEM | [Ver Repositorio ↗](https://github.com/PALP31/Bayesian-Biostats) |
+
 
 ---
 
