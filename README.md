@@ -1,14 +1,9 @@
 <div align="center">
 
-<!-- Header Dynamic Banner -->
+<!-- Header Dynamic Waving Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030508,40:0f172a,80:005f73,100:00e5bc&height=220&section=header&text=Paúl%20Alexander%20López%20Peña&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Docencia%20Universitaria%20(PUC)%20•%20Biotecnología%20Vegetal%20&%20Multi-Ómica%20•%20Bioestadística%20en%20R&descFontSize=16&descAlignY=62&descColor=00e5bc" width="100%" alt="Header Banner" />
 
-<!-- Dynamic Typing Effect -->
-<a href="https://github.com/PALP31">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00E5BC&center=true&vCenter=true&width=750&lines=🌾+PhD+Researcher+in+Durum+Wheat+Multi-Omics;📦+R+Package+Developer+(easyModels);🧬+Ionomics+•+Transcriptomics+•+Metabolomics;📈+Bioinformatics+•+Bayesian+Stats+•+GAMs+•+LMM;🎓+Lecturer+in+Applied+Statistics+@+PUC+Chile;🤖+Autonomous+AI+Agents+&+Scientific+Computing" alt="Typing SVG" />
-</a>
-
-<br/><br/>
+<br/>
 
 <!-- Profile Metrics & Social Links -->
 [![Profile Views](https://komarev.com/ghpvc/?username=PALP31&color=00e5bc&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/PALP31)
@@ -17,18 +12,17 @@
 <a href="https://x.com/Palp311"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://bsky.app/profile/palp311.bsky.social"><img src="https://img.shields.io/badge/BLUESKY-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"></a>
 
-<br/><br/>
-
-<!-- GitHub Trophies -->
-<a href="https://github.com/PALP31">
-  <img src="https://github-profile-trophy.vercel.app/?username=PALP31&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</a>
-
 </div>
 
 ---
 
-### 🔬 Sobre Mí & Trayectoria Académica
+### 🔬 Marco de Investigación Multi-Ómica & Fisiología Vegetal
+
+<div align="center">
+  <img src="assets/multiomics_pipeline.svg" width="100%" alt="Multi-Omics Research Framework" />
+</div>
+
+<br/>
 
 - 🎓 **Docencia Universitaria (PUC):** Profesor del curso de pregrado **Aplicaciones Estadísticas** en la **Pontificia Universidad Católica de Chile**, formando a estudiantes en inferencia estadística, diseño experimental, modelos lineales y análisis de datos aplicados en R.
 - 🌾 **Investigación Doctoral:** Estudiante de Doctorado en Biotecnología Vegetal (PUC), enfocado en la tolerancia a estrés abiótico (térmico e hídrico) en trigo candeal (*Triticum durum*) mediante **enfoques Multi-Ómicos (Ionómica, Transcriptómica y Metabolómica)** y **Fisiología Vegetal de Precisión**.
@@ -60,9 +54,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/PALP31/easyModels">📦 easyModels (v0.4.0)</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/R_Package-v0.4.0-00e5bc?style=flat-square&logo=r" alt="R Package">
+      <a href="https://github.com/PALP31/easyModels">
+        <img src="https://raw.githubusercontent.com/PALP31/easyModels/main/man/figures/logo.png" align="right" width="95" alt="easyModels hex logo" />
+      </a>
+      <h3><a href="https://github.com/PALP31/easyModels">easyModels (v0.4.2)</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/R_Package-v0.4.2-00e5bc?style=flat-square&logo=r" alt="R Package">
         <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status">
       </p>
       <p>Paquete de R para bioestadística aplicada y reproducible. Incluye arquitectura S3 unificada (<code>easy_model</code>), ajuste de LM, GLM, LMM y GLMM, diseños experimentales (RCBD, Split-Plot, Cuadrado Latino, Medidas Repetidas, Strip-Plot), verificación de supuestos (<code>verificar_supuestos</code>), selección de modelos con AIC/BIC (<code>comparar_modelos</code>) y figuras de publicación con letras de Tukey.</p>
@@ -122,10 +119,7 @@
   <br/><br/>
 
   <a href="https://github.com/PALP31">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PALP31&theme=dark&background=0D1117&border=30363D&stroke=00E5BC&ring=00E5BC&fire=00E5BC&currStreakLabel=00E5BC" alt="GitHub Streak Stats" width="49%" />
-  </a>
-  <a href="https://github.com/PALP31">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PALP31&bg_color=0d1117&color=00e5bc&line=00e5bc&point=38bdf8&area=true&hide_border=true" alt="Gráfico de Actividad de PALP31" width="49%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PALP31&bg_color=0d1117&color=00e5bc&line=00e5bc&point=38bdf8&area=true&hide_border=true" alt="Gráfico de Actividad de PALP31" width="99%" />
   </a>
 
 </div>
