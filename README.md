@@ -158,7 +158,7 @@
   <br/><br/>
 
   <a href="https://github.com/PALP31">
-    <img src="https://streak-stats.demolab.com/?user=PALP31&theme=dark&background=0d1117&ring=00e5bc&fire=00e5bc&currStreakLabel=00e5bc&border=30363d&date_format=%5BY%20%5DM%20j" alt="Racha y Actividad de Contribuciones de PALP31" width="99%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PALP31&theme=dark&background=0d1117&ring=00e5bc&fire=00e5bc&currStreakLabel=00e5bc&sideLabels=c9d1d9&sideNums=00e5bc&dates=8b949e&border=30363d&date_format=%5BY%20%5DM%20j" alt="Racha y Actividad de Contribuciones de PALP31" width="99%" />
   </a>
 
 </div>
