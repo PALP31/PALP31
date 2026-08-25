@@ -67,16 +67,17 @@
       <a href="https://github.com/PALP31/agriDesignR">
         <img src="https://raw.githubusercontent.com/PALP31/agriDesignR/main/man/figures/logo.png" align="right" width="105" alt="agriDesignR hex logo" />
       </a>
-      <h3><a href="https://github.com/PALP31/agriDesignR">🌱 agriDesignR (v0.1.0) — Motor Asistido de Diseño Experimental y Modelos Mixtos</a></h3>
+      <h3><a href="https://github.com/PALP31/agriDesignR">🌱 agriDesignR (v0.2.0) — Motor Asistido de Diseño Experimental y Modelos Mixtos</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/R_Package-v0.1.0-00e5bc?style=flat-square&logo=r" alt="R Package">
-        <img src="https://img.shields.io/badge/Tests-81%20Passing%20(100%25)-2ecc71.svg?style=flat-square" alt="Tests">
+        <img src="https://img.shields.io/badge/R_Package-v0.2.0-00e5bc?style=flat-square&logo=r" alt="R Package">
+        <img src="https://img.shields.io/badge/CRAN_Ready-0_Errors_|_0_Warn-2ecc71.svg?style=flat-square" alt="CRAN Ready">
+        <img src="https://img.shields.io/badge/CI-Passing-2ecc71.svg?style=flat-square&logo=githubactions&logoColor=white" alt="CI">
         <img src="https://img.shields.io/badge/Shiny_GUI-launch__app()-52b788.svg?style=flat-square&logo=RStudio&logoColor=white" alt="Shiny GUI">
         <img src="https://img.shields.io/badge/Mixed_Models-lme4_%7C_nlme_%7C_glmmTMB-4dadf7.svg?style=flat-square" alt="Engines">
         <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License">
       </p>
       <p>Motor de decisión inteligente para ciencias agronómicas y biológicas. Conecta el ciclo completo: <strong>Planificación Pre-Ensayo</strong> (diagnóstico de gradientes de invernadero/campo, cálculo de réplicas, croquis de mesas 2D y plantillas CSV de siembra), <strong>Modelado Mixto Multi-Motor</strong> (LMM Kenward-Roger, GLMM, no paramétricos), <strong>Remedios Automáticos</strong> (Box-Cox, varIdent, GLMM Gamma/NB), <strong>Eficiencia Relativa de Bloqueo</strong> (Cochran & Cox), <strong>Efectos Simples en Factoriales 2 y 3 Vías</strong>, <strong>Figuras de Publicación</strong> (Nature style) y <strong>App Web Interactiva</strong> (<code>launch_app()</code>).</p>
-      <p><code>remotes::install_github("PALP31/agriDesignR")</code></p>
+      <p><code>remotes::install_github("PALP31/agriDesignR@v0.2.0")</code></p>
     </td>
   </tr>
 
