@@ -75,7 +75,7 @@
     <circle cx="20" cy="24" r="8" fill="#00e5bc" opacity="0.15" />
     <text x="20" y="28" text-anchor="middle" fill="#00e5bc" font-size="12">🌱</text>
     <text x="36" y="24" class="card-hdr" fill="#00e5bc">agriDesignR</text>
-    <text x="36" y="38" class="card-sub">v0.2.0 • CRAN Ready</text>
+    <text x="36" y="38" class="card-sub">v0.2.1 • CRAN Ready</text>
 
     <!-- Metrics Line -->
     <rect x="14" y="52" width="177" height="26" rx="5" fill="#031014" stroke="#00e5bc" stroke-opacity="0.25" />

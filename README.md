@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030508,40:0f172a,80:005f73,100:00e5bc&height=220&section=header&text=Paúl%20Alexander%20López%20Peña&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Docencia%20Universitaria%20(PUC)%20•%20Multi-Ómica%20&%20Microbioma%20Vegetal%20•%20Estadística%20Bayesiana%20en%20R&descFontSize=16&descAlignY=62&descColor=00e5bc" width="100%" alt="Header Banner" />
 
 <!-- Dynamic Animated Typing Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1000&color=00E5BC&center=true&vCenter=true&width=800&height=40&lines=Docencia+Universitaria+(PUC)+%E2%80%A2+Profesor+de+Aplicaciones+Estad%C3%ADsticas;Investigaci%C3%B3n+Doctoral+en+Biotecnolog%C3%ADa+Vegetal+%E2%80%A2+Multi-%C3%93mica+%26+Microbioma;Autor+de+agriDesignR+(v0.2.0)+%E2%80%A2+Dise%C3%B1o+Experimental+%26+Modelos+Mixtos;Autor+de+easyModels+(v0.4.2)+%E2%80%A2+Bioestad%C3%ADstica+Automatizada+y+Reproducible;Estad%C3%ADstica+Bayesiana+con+brms%2FStan+%E2%80%A2+Modelos+de+Ecuaciones+Estructurales" alt="Dynamic Typing Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1000&color=00E5BC&center=true&vCenter=true&width=800&height=40&lines=Docencia+Universitaria+(PUC)+%E2%80%A2+Profesor+de+Aplicaciones+Estad%C3%ADsticas;Investigaci%C3%B3n+Doctoral+en+Biotecnolog%C3%ADa+Vegetal+%E2%80%A2+Multi-%C3%93mica+%26+Microbioma;Autor+de+agriDesignR+(v0.2.1)+%E2%80%A2+Dise%C3%B1o+Experimental+%26+Modelos+Mixtos;Autor+de+easyModels+(v0.4.2)+%E2%80%A2+Bioestad%C3%ADstica+Automatizada+y+Reproducible;Estad%C3%ADstica+Bayesiana+con+brms%2FStan+%E2%80%A2+Modelos+de+Ecuaciones+Estructurales" alt="Dynamic Typing Header" />
 
 <br/>
 
@@ -32,7 +32,7 @@
 - 🦠 **Microbiología Agrícola & Biocontrol:** Modelado cuantitativo de interacciones planta-microorganismo benéfico: dinámica antagónica de ***Trichoderma* spp.** (micoparasitismo, compuestos volátiles VOCs, inhibición dual), rizobacterias promotoras de crecimiento vegetal (**PGPR**: *Bacillus*, *Pseudomonas*), inoculación dual/consorcios, solubilización biomineral ($P$, $K$, sideróforos) y **mitigación de estrés abiótico** mediada por microorganismos.
 - 🎲 **Estadística Bayesiana & Inferencia MCMC:** Modelado jerárquico bayesiano avanzado con **`brms`** y **`Stan`**, calibración de *priors* informativos y regularizadores, diagnósticos de convergencia MCMC ($\hat{R}$, ESS, *trace plots*), validación predictiva cruzada (**LOO-CV / WAIC**) y chequeos predictivos posteriores (*Posterior Predictive Checks*).
 - 🕸️ **Modelos de Ecuaciones Estructurales (Piecewise SEM):** Descomposición de efectos directos e indirectos en redes fisiológicas multicapa, integrando submodelos mixtos jerárquicos y pruebas de separación direccional (*d-sep*).
-- 💻 **Desarrollo de Software Científico:** Creador y autor de los paquetes de R [**`agriDesignR`**](https://github.com/PALP31/agriDesignR) (v0.2.0, motor asistido de diseño experimental, micro-croquis 2D y modelos mixtos jerárquicos) y [**`easyModels`**](https://github.com/PALP31/easyModels) (v0.4.2, bioestadística automatizada y reproducible), diseñados para transferir flujos metodológicos de vanguardia al aula universitaria y a la investigación de alto impacto.
+- 💻 **Desarrollo de Software Científico:** Creador y autor de los paquetes de R [**`agriDesignR`**](https://github.com/PALP31/agriDesignR) (v0.2.1, motor asistido de diseño experimental, micro-croquis 2D y modelos mixtos jerárquicos) y [**`easyModels`**](https://github.com/PALP31/easyModels) (v0.4.2, bioestadística automatizada y reproducible), diseñados para transferir flujos metodológicos de vanguardia al aula universitaria y a la investigación de alto impacto.
 
 ---
 
@@ -70,9 +70,9 @@
       <a href="https://github.com/PALP31/agriDesignR">
         <img src="https://raw.githubusercontent.com/PALP31/agriDesignR/main/man/figures/logo.png" align="right" width="105" alt="agriDesignR hex logo" />
       </a>
-      <h3><a href="https://github.com/PALP31/agriDesignR">🌱 agriDesignR (v0.2.0) — Motor Asistido de Diseño Experimental y Modelos Mixtos</a></h3>
+      <h3><a href="https://github.com/PALP31/agriDesignR">🌱 agriDesignR (v0.2.1) — Motor Asistido de Diseño Experimental y Modelos Mixtos</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/R_Package-v0.2.0-00e5bc?style=flat-square&logo=r" alt="R Package">
+        <img src="https://img.shields.io/badge/R_Package-v0.2.1-00e5bc?style=flat-square&logo=r" alt="R Package">
         <img src="https://img.shields.io/badge/CRAN_Ready-0_Errors_|_0_Warn-2ecc71.svg?style=flat-square" alt="CRAN Ready">
         <img src="https://img.shields.io/badge/CI-Passing-2ecc71.svg?style=flat-square&logo=githubactions&logoColor=white" alt="CI">
         <img src="https://img.shields.io/badge/Shiny_GUI-launch__app()-52b788.svg?style=flat-square&logo=RStudio&logoColor=white" alt="Shiny GUI">
@@ -80,7 +80,7 @@
         <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License">
       </p>
       <p>Motor de decisión inteligente para ciencias agronómicas y biológicas. Conecta el ciclo completo: <strong>Planificación Pre-Ensayo</strong> (diagnóstico de gradientes de invernadero/campo, cálculo de réplicas, croquis de mesas 2D y plantillas CSV de siembra), <strong>Modelado Mixto Multi-Motor</strong> (LMM Kenward-Roger, GLMM, no paramétricos), <strong>Remedios Automáticos</strong> (Box-Cox, varIdent, GLMM Gamma/NB), <strong>Eficiencia Relativa de Bloqueo</strong> (Cochran & Cox), <strong>Efectos Simples en Factoriales 2 y 3 Vías</strong>, <strong>Figuras de Publicación</strong> (Nature style) y <strong>App Web Interactiva</strong> (<code>launch_app()</code>).</p>
-      <p><code>remotes::install_github("PALP31/agriDesignR@v0.2.0")</code></p>
+      <p><code>remotes::install_github("PALP31/agriDesignR@v0.2.1")</code></p>
     </td>
   </tr>
 
