@@ -3,6 +3,9 @@
 <!-- Header Dynamic Waving Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030508,40:0f172a,80:005f73,100:00e5bc&height=220&section=header&text=Paúl%20Alexander%20López%20Peña&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Docencia%20Universitaria%20(PUC)%20•%20Multi-Ómica%20&%20Microbioma%20Vegetal%20•%20Estadística%20Bayesiana%20en%20R&descFontSize=16&descAlignY=62&descColor=00e5bc" width="100%" alt="Header Banner" />
 
+<!-- Dynamic Animated Typing Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1000&color=00E5BC&center=true&vCenter=true&width=800&height=40&lines=Docencia+Universitaria+(PUC)+%E2%80%A2+Profesor+de+Aplicaciones+Estad%C3%ADsticas;Investigaci%C3%B3n+Doctoral+en+Biotecnolog%C3%ADa+Vegetal+%E2%80%A2+Multi-%C3%93mica+%26+Microbioma;Autor+de+agriDesignR+(v0.2.0)+%E2%80%A2+Dise%C3%B1o+Experimental+%26+Modelos+Mixtos;Autor+de+easyModels+(v0.4.2)+%E2%80%A2+Bioestad%C3%ADstica+Automatizada+y+Reproducible;Estad%C3%ADstica+Bayesiana+con+brms%2FStan+%E2%80%A2+Modelos+de+Ecuaciones+Estructurales" alt="Dynamic Typing Header" />
+
 <br/>
 
 <!-- Profile Metrics & Social Links -->
@@ -29,7 +32,7 @@
 - 🦠 **Microbiología Agrícola & Biocontrol:** Modelado cuantitativo de interacciones planta-microorganismo benéfico: dinámica antagónica de ***Trichoderma* spp.** (micoparasitismo, compuestos volátiles VOCs, inhibición dual), rizobacterias promotoras de crecimiento vegetal (**PGPR**: *Bacillus*, *Pseudomonas*), inoculación dual/consorcios, solubilización biomineral ($P$, $K$, sideróforos) y **mitigación de estrés abiótico** mediada por microorganismos.
 - 🎲 **Estadística Bayesiana & Inferencia MCMC:** Modelado jerárquico bayesiano avanzado con **`brms`** y **`Stan`**, calibración de *priors* informativos y regularizadores, diagnósticos de convergencia MCMC ($\hat{R}$, ESS, *trace plots*), validación predictiva cruzada (**LOO-CV / WAIC**) y chequeos predictivos posteriores (*Posterior Predictive Checks*).
 - 🕸️ **Modelos de Ecuaciones Estructurales (Piecewise SEM):** Descomposición de efectos directos e indirectos en redes fisiológicas multicapa, integrando submodelos mixtos jerárquicos y pruebas de separación direccional (*d-sep*).
-- 💻 **Desarrollo de Software Científico:** Creador del paquete de R [`easyModels`](https://github.com/PALP31/easyModels), diseñado para transferir flujos estadísticos reproducibles tanto al aula universitaria como a la investigación científica de alto impacto.
+- 💻 **Desarrollo de Software Científico:** Creador y autor de los paquetes de R [**`agriDesignR`**](https://github.com/PALP31/agriDesignR) (v0.2.0, motor asistido de diseño experimental, micro-croquis 2D y modelos mixtos jerárquicos) y [**`easyModels`**](https://github.com/PALP31/easyModels) (v0.4.2, bioestadística automatizada y reproducible), diseñados para transferir flujos metodológicos de vanguardia al aula universitaria y a la investigación de alto impacto.
 
 ---
 
@@ -145,21 +148,21 @@
 
 ---
 
-### 📊 Actividad y Estadísticas en GitHub
+### 📊 Ecosistema de Software Científico & Métricas de Desarrollo
+
+<div align="center">
+  <img src="assets/scientific_ecosystem_dashboard.svg" width="100%" alt="Scientific Software and Computational Research Ecosystem" />
+</div>
+
+<br/>
 
 <div align="center">
 
   <a href="https://github.com/PALP31">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=PALP31&show_icons=true&bg_color=0d1117&title_color=00e5bc&text_color=c9d1d9&icon_color=00e5bc&border_color=30363d&count_private=true" alt="Estadísticas de PALP31" width="49%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=PALP31&show_icons=true&hide_rank=true&hide=stars,issues&bg_color=0d1117&title_color=00e5bc&text_color=c9d1d9&icon_color=00e5bc&border_color=30363d&count_private=true&include_all_commits=true" alt="Estadísticas de Desarrollo de PALP31" width="49%" />
   </a>
   <a href="https://github.com/PALP31">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PALP31&layout=compact&bg_color=0d1117&title_color=00e5bc&text_color=c9d1d9&border_color=30363d&hide=css,html" alt="Lenguajes más usados" width="49%" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/PALP31">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PALP31&theme=dark&background=0d1117&ring=00e5bc&fire=00e5bc&currStreakLabel=00e5bc&sideLabels=c9d1d9&sideNums=00e5bc&dates=8b949e&border=30363d&date_format=%5BY%20%5DM%20j" alt="Racha y Actividad de Contribuciones de PALP31" width="99%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PALP31&layout=compact&bg_color=0d1117&title_color=00e5bc&text_color=c9d1d9&border_color=30363d&hide=css,html&exclude_repo=PALP31" alt="Lenguajes Principales" width="49%" />
   </a>
 
 </div>

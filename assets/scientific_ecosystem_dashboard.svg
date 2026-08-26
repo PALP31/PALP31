@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 330" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="dbBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712" />
+      <stop offset="50%" stop-color="#091326" />
+      <stop offset="100%" stop-color="#030712" />
+    </linearGradient>
+
+    <!-- Card 1: agriDesignR (Teal / Cyan) -->
+    <linearGradient id="metricGrad1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0a2e36" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#041419" stop-opacity="0.95" />
+    </linearGradient>
+
+    <!-- Card 2: easyModels (Blue) -->
+    <linearGradient id="metricGrad2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0d244a" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#050e21" stop-opacity="0.95" />
+    </linearGradient>
+
+    <!-- Card 3: Multi-Omics & Plant Physiology (Emerald) -->
+    <linearGradient id="metricGrad3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0c2f1f" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#04140d" stop-opacity="0.95" />
+    </linearGradient>
+
+    <!-- Card 4: Bayesian Stats & SEM (Violet) -->
+    <linearGradient id="metricGrad4" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2a123d" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#12051c" stop-opacity="0.95" />
+    </linearGradient>
+
+    <!-- Glow Filters -->
+    <filter id="glowTeal" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="glowBlue" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <style>
+      .hdr-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-weight: 800; font-size: 19px; fill: #ffffff; letter-spacing: 0.5px; }
+      .hdr-sub { font-family: "SF Mono", Consolas, Monaco, monospace; font-size: 11px; fill: #00e5bc; font-weight: 700; letter-spacing: 1.5px; }
+      .card-hdr { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-weight: 700; font-size: 15px; }
+      .card-sub { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-weight: 600; font-size: 11px; fill: #94a3b8; }
+      .pill-text { font-family: "SF Mono", Consolas, monospace; font-size: 10px; font-weight: 600; }
+      .body-txt { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11px; fill: #cbd5e1; line-height: 1.45; }
+      .stat-num { font-family: "SF Mono", Consolas, Monaco, monospace; font-size: 18px; font-weight: 800; }
+    </style>
+  </defs>
+
+  <!-- Base Canvas -->
+  <rect width="950" height="330" rx="14" fill="url(#dbBgGrad)" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Top Header Section -->
+  <g transform="translate(30, 32)">
+    <circle cx="10" cy="10" r="10" fill="#00e5bc" opacity="0.2" filter="url(#glowTeal)" />
+    <circle cx="10" cy="10" r="4" fill="#00e5bc" />
+    <text x="32" y="7" class="hdr-sub">SCIENTIFIC SOFTWARE &amp; COMPUTATIONAL RESEARCH ECOSYSTEM</text>
+    <text x="32" y="26" class="hdr-title">Ecosistema de Software Científico, Modelado Estadístico y Multi-Ómica</text>
+  </g>
+
+  <!-- Connective Data Ribbon Behind Cards -->
+  <path d="M 30 75 L 920 75" stroke="#1e293b" stroke-width="1" />
+  <path d="M 140 75 L 140 92 M 365 75 L 365 92 M 590 75 L 590 92 M 815 75 L 815 92" stroke="#334155" stroke-dasharray="2,2" stroke-width="1.5" />
+
+  <!-- ==================== CARD 1: agriDesignR ==================== -->
+  <g transform="translate(30, 92)">
+    <rect width="205" height="212" rx="10" fill="url(#metricGrad1)" stroke="#00e5bc" stroke-opacity="0.4" stroke-width="1.2" />
+    
+    <!-- Header & Badge -->
+    <circle cx="20" cy="24" r="8" fill="#00e5bc" opacity="0.15" />
+    <text x="20" y="28" text-anchor="middle" fill="#00e5bc" font-size="12">🌱</text>
+    <text x="36" y="24" class="card-hdr" fill="#00e5bc">agriDesignR</text>
+    <text x="36" y="38" class="card-sub">v0.2.0 • CRAN Ready</text>
+
+    <!-- Metrics Line -->
+    <rect x="14" y="52" width="177" height="26" rx="5" fill="#031014" stroke="#00e5bc" stroke-opacity="0.25" />
+    <text x="22" y="69" class="pill-text" fill="#00e5bc">0 Err | 0 Warn | 100% CI</text>
+
+    <!-- Key Bullet Points -->
+    <text x="14" y="98" class="body-txt">• Diseño Asistido: CRD, RCBD,</text>
+    <text x="14" y="114" class="body-txt">  Split-Plot, Split-Split-Plot</text>
+    <text x="14" y="132" class="body-txt">• Modelos Mixtos: Kenward-Roger</text>
+    <text x="14" y="150" class="body-txt">• Croquis 2D &amp; Plantillas CSV</text>
+    <text x="14" y="168" class="body-txt">• Eficiencia de Bloqueo (RE%)</text>
+    
+    <!-- Footer Pill -->
+    <rect x="14" y="180" width="177" height="20" rx="4" fill="#00e5bc" fill-opacity="0.12" />
+    <text x="102" y="194" text-anchor="middle" class="pill-text" fill="#00e5bc">lme4 • glmmTMB • Shiny</text>
+  </g>
+
+  <!-- ==================== CARD 2: easyModels ==================== -->
+  <g transform="translate(255, 92)">
+    <rect width="205" height="212" rx="10" fill="url(#metricGrad2)" stroke="#4dadf7" stroke-opacity="0.4" stroke-width="1.2" />
+    
+    <!-- Header & Badge -->
+    <circle cx="20" cy="24" r="8" fill="#4dadf7" opacity="0.15" />
+    <text x="20" y="28" text-anchor="middle" fill="#4dadf7" font-size="12">📦</text>
+    <text x="36" y="24" class="card-hdr" fill="#4dadf7">easyModels</text>
+    <text x="36" y="38" class="card-sub">v0.4.2 • Bioestadística R</text>
+
+    <!-- Metrics Line -->
+    <rect x="14" y="52" width="177" height="26" rx="5" fill="#040c1a" stroke="#4dadf7" stroke-opacity="0.25" />
+    <text x="22" y="69" class="pill-text" fill="#4dadf7">easy_model() • Unified S3</text>
+
+    <!-- Key Bullet Points -->
+    <text x="14" y="98" class="body-txt">• Ajuste Automático Multi-Clase:</text>
+    <text x="14" y="114" class="body-txt">  LM, GLM, LMM y GLMM</text>
+    <text x="14" y="132" class="body-txt">• Auditoría Automatizada</text>
+    <text x="14" y="150" class="body-txt">• Selección de Modelos AIC/BIC</text>
+    <text x="14" y="168" class="body-txt">• Gráficos con Letras de Tukey</text>
+    
+    <!-- Footer Pill -->
+    <rect x="14" y="180" width="177" height="20" rx="4" fill="#4dadf7" fill-opacity="0.12" />
+    <text x="102" y="194" text-anchor="middle" class="pill-text" fill="#4dadf7">Docencia &amp; Publicación</text>
+  </g>
+
+  <!-- ==================== CARD 3: Multi-Omics & Biocontrol ==================== -->
+  <g transform="translate(480, 92)">
+    <rect width="205" height="212" rx="10" fill="url(#metricGrad3)" stroke="#2ecc71" stroke-opacity="0.4" stroke-width="1.2" />
+    
+    <!-- Header & Badge -->
+    <circle cx="20" cy="24" r="8" fill="#2ecc71" opacity="0.15" />
+    <text x="20" y="28" text-anchor="middle" fill="#2ecc71" font-size="12">🌾</text>
+    <text x="36" y="24" class="card-hdr" fill="#2ecc71">Multi-Ómica</text>
+    <text x="36" y="38" class="card-sub">Trigo Duro &amp; Biocontrol</text>
+
+    <!-- Metrics Line -->
+    <rect x="14" y="52" width="177" height="26" rx="5" fill="#031008" stroke="#2ecc71" stroke-opacity="0.25" />
+    <text x="22" y="69" class="pill-text" fill="#2ecc71">Ionómica • RNA-seq • sPLS</text>
+
+    <!-- Key Bullet Points -->
+    <text x="14" y="98" class="body-txt">• Fisiología del Estrés Térmico</text>
+    <text x="14" y="114" class="body-txt">• Homeostasis K⁺/Na⁺ y Antioxidante</text>
+    <text x="14" y="132" class="body-txt">• Microorganismos PGPR/KSM</text>
+    <text x="14" y="150" class="body-txt">• Cinéticas Trichoderma y Bacillus</text>
+    <text x="14" y="168" class="body-txt">• Integración mixOmics &amp; WGCNA</text>
+    
+    <!-- Footer Pill -->
+    <rect x="14" y="180" width="177" height="20" rx="4" fill="#2ecc71" fill-opacity="0.12" />
+    <text x="102" y="194" text-anchor="middle" class="pill-text" fill="#2ecc71">Triticum durum • Doctorado</text>
+  </g>
+
+  <!-- ==================== CARD 4: Bayesian Stats & SEM ==================== -->
+  <g transform="translate(705, 92)">
+    <rect width="205" height="212" rx="10" fill="url(#metricGrad4)" stroke="#c084fc" stroke-opacity="0.4" stroke-width="1.2" />
+    
+    <!-- Header & Badge -->
+    <circle cx="20" cy="24" r="8" fill="#c084fc" opacity="0.15" />
+    <text x="20" y="28" text-anchor="middle" fill="#c084fc" font-size="12">🎲</text>
+    <text x="36" y="24" class="card-hdr" fill="#c084fc">Bayes &amp; SEM</text>
+    <text x="36" y="38" class="card-sub">Inferencia MCMC Avanzada</text>
+
+    <!-- Metrics Line -->
+    <rect x="14" y="52" width="177" height="26" rx="5" fill="#0d0417" stroke="#c084fc" stroke-opacity="0.25" />
+    <text x="22" y="69" class="pill-text" fill="#c084fc">brms • Stan • PiecewiseSEM</text>
+
+    <!-- Key Bullet Points -->
+    <text x="14" y="98" class="body-txt">• Modelos Jerárquicos Multicapa</text>
+    <text x="14" y="114" class="body-txt">• Priors Regularizadores &amp; LOO-CV</text>
+    <text x="14" y="132" class="body-txt">• Diagnósticos MCMC (R̂, ESS)</text>
+    <text x="14" y="150" class="body-txt">• Redes de Efectos Directos /</text>
+    <text x="14" y="168" class="body-txt">  Indirectos y Pruebas d-sep</text>
+    
+    <!-- Footer Pill -->
+    <rect x="14" y="180" width="177" height="20" rx="4" fill="#c084fc" fill-opacity="0.12" />
+    <text x="102" y="194" text-anchor="middle" class="pill-text" fill="#c084fc">Inferencia Probabilística</text>
+  </g>
+</svg>
