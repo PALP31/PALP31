@@ -60,7 +60,7 @@
     <circle cx="10" cy="10" r="10" fill="#00e5bc" opacity="0.2" filter="url(#glowTeal)" />
     <circle cx="10" cy="10" r="4" fill="#00e5bc" />
     <text x="32" y="7" class="hdr-sub">SCIENTIFIC SOFTWARE &amp; COMPUTATIONAL RESEARCH ECOSYSTEM</text>
-    <text x="32" y="26" class="hdr-title">Ecosistema de Software Científico, Modelado Estadístico y Multi-Ómica</text>
+    <text x="32" y="26" class="hdr-title">Scientific Software Ecosystem, Statistical Modeling &amp; Multi-Omics</text>
   </g>
 
   <!-- Connective Data Ribbon Behind Cards -->
@@ -78,15 +78,15 @@
     <text x="36" y="38" class="card-sub">v0.2.1 • CRAN Ready</text>
 
     <!-- Metrics Line -->
-    <rect x="14" y="52" width="177" height="26" rx="5" fill="#031014" stroke="#00e5bc" stroke-opacity="0.25" />
+    <rect x="14" y="52" width="177" height="26" rx="5" fill="#031008" stroke="#00e5bc" stroke-opacity="0.25" />
     <text x="22" y="69" class="pill-text" fill="#00e5bc">0 Err | 0 Warn | 100% CI</text>
 
     <!-- Key Bullet Points -->
-    <text x="14" y="98" class="body-txt">• Diseño Asistido: CRD, RCBD,</text>
+    <text x="14" y="98" class="body-txt">• Assisted Design: CRD, RCBD,</text>
     <text x="14" y="114" class="body-txt">  Split-Plot, Split-Split-Plot</text>
-    <text x="14" y="132" class="body-txt">• Modelos Mixtos: Kenward-Roger</text>
-    <text x="14" y="150" class="body-txt">• Croquis 2D &amp; Plantillas CSV</text>
-    <text x="14" y="168" class="body-txt">• Eficiencia de Bloqueo (RE%)</text>
+    <text x="14" y="132" class="body-txt">• Mixed Models: Kenward-Roger</text>
+    <text x="14" y="150" class="body-txt">• 2D Layouts &amp; CSV Templates</text>
+    <text x="14" y="168" class="body-txt">• Blocking Efficiency (RE%)</text>
     
     <!-- Footer Pill -->
     <rect x="14" y="180" width="177" height="20" rx="4" fill="#00e5bc" fill-opacity="0.12" />
@@ -101,22 +101,22 @@
     <circle cx="20" cy="24" r="8" fill="#4dadf7" opacity="0.15" />
     <text x="20" y="28" text-anchor="middle" fill="#4dadf7" font-size="12">📦</text>
     <text x="36" y="24" class="card-hdr" fill="#4dadf7">easyModels</text>
-    <text x="36" y="38" class="card-sub">v0.4.2 • Bioestadística R</text>
+    <text x="36" y="38" class="card-sub">v0.4.2 • Biostatistics R</text>
 
     <!-- Metrics Line -->
     <rect x="14" y="52" width="177" height="26" rx="5" fill="#040c1a" stroke="#4dadf7" stroke-opacity="0.25" />
     <text x="22" y="69" class="pill-text" fill="#4dadf7">easy_model() • Unified S3</text>
 
     <!-- Key Bullet Points -->
-    <text x="14" y="98" class="body-txt">• Ajuste Automático Multi-Clase:</text>
-    <text x="14" y="114" class="body-txt">  LM, GLM, LMM y GLMM</text>
-    <text x="14" y="132" class="body-txt">• Auditoría Automatizada</text>
-    <text x="14" y="150" class="body-txt">• Selección de Modelos AIC/BIC</text>
-    <text x="14" y="168" class="body-txt">• Gráficos con Letras de Tukey</text>
+    <text x="14" y="98" class="body-txt">• Multi-Class Auto-Fitting:</text>
+    <text x="14" y="114" class="body-txt">  LM, GLM, LMM &amp; GLMM</text>
+    <text x="14" y="132" class="body-txt">• Automated Diagnostics</text>
+    <text x="14" y="150" class="body-txt">• Model Selection AIC/BIC</text>
+    <text x="14" y="168" class="body-txt">• Publication Plots (Tukey)</text>
     
     <!-- Footer Pill -->
     <rect x="14" y="180" width="177" height="20" rx="4" fill="#4dadf7" fill-opacity="0.12" />
-    <text x="102" y="194" text-anchor="middle" class="pill-text" fill="#4dadf7">Docencia &amp; Publicación</text>
+    <text x="102" y="194" text-anchor="middle" class="pill-text" fill="#4dadf7">Teaching &amp; Publications</text>
   </g>
 
   <!-- ==================== CARD 3: Multi-Omics & Biocontrol ==================== -->
@@ -126,23 +126,23 @@
     <!-- Header & Badge -->
     <circle cx="20" cy="24" r="8" fill="#2ecc71" opacity="0.15" />
     <text x="20" y="28" text-anchor="middle" fill="#2ecc71" font-size="12">🌾</text>
-    <text x="36" y="24" class="card-hdr" fill="#2ecc71">Multi-Ómica</text>
-    <text x="36" y="38" class="card-sub">Trigo Duro &amp; Biocontrol</text>
+    <text x="36" y="24" class="card-hdr" fill="#2ecc71">Multi-Omics</text>
+    <text x="36" y="38" class="card-sub">Durum Wheat &amp; Biocontrol</text>
 
     <!-- Metrics Line -->
     <rect x="14" y="52" width="177" height="26" rx="5" fill="#031008" stroke="#2ecc71" stroke-opacity="0.25" />
-    <text x="22" y="69" class="pill-text" fill="#2ecc71">Ionómica • RNA-seq • sPLS</text>
+    <text x="22" y="69" class="pill-text" fill="#2ecc71">Ionomics • RNA-seq • sPLS</text>
 
     <!-- Key Bullet Points -->
-    <text x="14" y="98" class="body-txt">• Fisiología del Estrés Térmico</text>
-    <text x="14" y="114" class="body-txt">• Homeostasis K⁺/Na⁺ y Antioxidante</text>
-    <text x="14" y="132" class="body-txt">• Microorganismos PGPR/KSM</text>
-    <text x="14" y="150" class="body-txt">• Cinéticas Trichoderma y Bacillus</text>
-    <text x="14" y="168" class="body-txt">• Integración mixOmics &amp; WGCNA</text>
+    <text x="14" y="98" class="body-txt">• Heat Stress Physiology</text>
+    <text x="14" y="114" class="body-txt">• K⁺/Na⁺ &amp; Redox Homeostasis</text>
+    <text x="14" y="132" class="body-txt">• PGPR &amp; KSM Inoculants</text>
+    <text x="14" y="150" class="body-txt">• Trichoderma &amp; Bacillus Kinetics</text>
+    <text x="14" y="168" class="body-txt">• mixOmics &amp; WGCNA Integration</text>
     
     <!-- Footer Pill -->
     <rect x="14" y="180" width="177" height="20" rx="4" fill="#2ecc71" fill-opacity="0.12" />
-    <text x="102" y="194" text-anchor="middle" class="pill-text" fill="#2ecc71">Triticum durum • Doctorado</text>
+    <text x="102" y="194" text-anchor="middle" class="pill-text" fill="#2ecc71">Triticum durum • PhD Research</text>
   </g>
 
   <!-- ==================== CARD 4: Bayesian Stats & SEM ==================== -->
@@ -153,21 +153,21 @@
     <circle cx="20" cy="24" r="8" fill="#c084fc" opacity="0.15" />
     <text x="20" y="28" text-anchor="middle" fill="#c084fc" font-size="12">🎲</text>
     <text x="36" y="24" class="card-hdr" fill="#c084fc">Bayes &amp; SEM</text>
-    <text x="36" y="38" class="card-sub">Inferencia MCMC Avanzada</text>
+    <text x="36" y="38" class="card-sub">Advanced MCMC Inference</text>
 
     <!-- Metrics Line -->
     <rect x="14" y="52" width="177" height="26" rx="5" fill="#0d0417" stroke="#c084fc" stroke-opacity="0.25" />
     <text x="22" y="69" class="pill-text" fill="#c084fc">brms • Stan • PiecewiseSEM</text>
 
     <!-- Key Bullet Points -->
-    <text x="14" y="98" class="body-txt">• Modelos Jerárquicos Multicapa</text>
-    <text x="14" y="114" class="body-txt">• Priors Regularizadores &amp; LOO-CV</text>
-    <text x="14" y="132" class="body-txt">• Diagnósticos MCMC (R̂, ESS)</text>
-    <text x="14" y="150" class="body-txt">• Redes de Efectos Directos /</text>
-    <text x="14" y="168" class="body-txt">  Indirectos y Pruebas d-sep</text>
+    <text x="14" y="98" class="body-txt">• Multilayer Hierarchical Models</text>
+    <text x="14" y="114" class="body-txt">• Regularizing Priors &amp; LOO-CV</text>
+    <text x="14" y="132" class="body-txt">• MCMC Diagnostics (R̂, ESS)</text>
+    <text x="14" y="150" class="body-txt">• Direct / Indirect Effects &amp;</text>
+    <text x="14" y="168" class="body-txt">  Directional Separation (d-sep)</text>
     
     <!-- Footer Pill -->
     <rect x="14" y="180" width="177" height="20" rx="4" fill="#c084fc" fill-opacity="0.12" />
-    <text x="102" y="194" text-anchor="middle" class="pill-text" fill="#c084fc">Inferencia Probabilística</text>
+    <text x="102" y="194" text-anchor="middle" class="pill-text" fill="#c084fc">Probabilistic Inference</text>
   </g>
 </svg>

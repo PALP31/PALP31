@@ -66,7 +66,7 @@
     <circle cx="28" cy="28" r="14" fill="#00e5bc" fill-opacity="0.15" />
     <text x="28" y="33" text-anchor="middle" font-size="14">⚡</text>
     
-    <text x="50" y="25" class="card-title" fill="#00e5bc">Ionómica</text>
+    <text x="50" y="25" class="card-title" fill="#00e5bc">Ionomics</text>
     <text x="50" y="39" class="card-sub">Elemental Profiling</text>
 
     <line x1="20" y1="52" x2="180" y2="52" stroke="#1e3a47" stroke-width="1" />
@@ -78,10 +78,10 @@
     <text x="139" y="74" text-anchor="middle" class="badge-text" fill="#00e5bc">ICP-OES / MS</text>
 
     <!-- Description -->
-    <text x="20" y="105" class="desc-text">• Homeostasis mineral</text>
-    <text x="20" y="125" class="desc-text">• Exclusión radicular</text>
-    <text x="20" y="145" class="desc-text">• Compartimentación vacuolar</text>
-    <text x="20" y="165" class="desc-text">• Transportadores HKT/SOS</text>
+    <text x="20" y="105" class="desc-text">• Mineral homeostasis</text>
+    <text x="20" y="125" class="desc-text">• Root Na⁺/K⁺ exclusion</text>
+    <text x="20" y="145" class="desc-text">• Vacuolar compartmentalization</text>
+    <text x="20" y="165" class="desc-text">• HKT / SOS transporters</text>
 
     <!-- Bottom Tag -->
     <rect x="20" y="195" width="160" height="22" rx="5" fill="#031a24" stroke="#00e5bc" stroke-opacity="0.2" />
@@ -94,7 +94,7 @@
     <circle cx="28" cy="28" r="14" fill="#4dadf7" fill-opacity="0.15" />
     <text x="28" y="33" text-anchor="middle" font-size="14">🧬</text>
     
-    <text x="50" y="25" class="card-title" fill="#4dadf7">Transcriptómica</text>
+    <text x="50" y="25" class="card-title" fill="#4dadf7">Transcriptomics</text>
     <text x="50" y="39" class="card-sub">RNA-seq &amp; Gene Expression</text>
 
     <line x1="20" y1="52" x2="180" y2="52" stroke="#1c2f59" stroke-width="1" />
@@ -106,10 +106,10 @@
     <text x="137" y="74" text-anchor="middle" class="badge-text" fill="#4dadf7">WGCNA Net</text>
 
     <!-- Description -->
-    <text x="20" y="105" class="desc-text">• Expresión diferencial (DEGs)</text>
-    <text x="20" y="125" class="desc-text">• Redes de co-expresión</text>
-    <text x="20" y="145" class="desc-text">• Factores HSF, WRKY, bZIP</text>
-    <text x="20" y="165" class="desc-text">• Chaperonas HSPs y Termo</text>
+    <text x="20" y="105" class="desc-text">• Differential expression (DEGs)</text>
+    <text x="20" y="125" class="desc-text">• Co-expression networks</text>
+    <text x="20" y="145" class="desc-text">• HSF, WRKY, bZIP TFs</text>
+    <text x="20" y="165" class="desc-text">• HSPs &amp; thermotolerance</text>
 
     <!-- Bottom Tag -->
     <rect x="20" y="195" width="160" height="22" rx="5" fill="#081530" stroke="#4dadf7" stroke-opacity="0.2" />
@@ -122,7 +122,7 @@
     <circle cx="28" cy="28" r="14" fill="#ff6b6b" fill-opacity="0.15" />
     <text x="28" y="33" text-anchor="middle" font-size="14">🧪</text>
     
-    <text x="50" y="25" class="card-title" fill="#ff6b6b">Metabolómica</text>
+    <text x="50" y="25" class="card-title" fill="#ff6b6b">Metabolomics</text>
     <text x="50" y="39" class="card-sub">Redox &amp; Compatible Solutes</text>
 
     <line x1="20" y1="52" x2="180" y2="52" stroke="#4a1e2f" stroke-width="1" />
@@ -131,13 +131,13 @@
     <rect x="20" y="62" width="75" height="18" rx="4" fill="#ff6b6b" fill-opacity="0.15" />
     <text x="57" y="74" text-anchor="middle" class="badge-text" fill="#ff6b6b">ROS Defense</text>
     <rect x="100" y="62" width="80" height="18" rx="4" fill="#ff6b6b" fill-opacity="0.15" />
-    <text x="140" y="74" text-anchor="middle" class="badge-text" fill="#ff6b6b">Osmolitos</text>
+    <text x="140" y="74" text-anchor="middle" class="badge-text" fill="#ff6b6b">Osmolytes</text>
 
     <!-- Description -->
-    <text x="20" y="105" class="desc-text">• Ajuste osmótico (Prolina)</text>
-    <text x="20" y="125" class="desc-text">• Enzimas SOD, CAT, APX</text>
-    <text x="20" y="145" class="desc-text">• Lipoperoxidación (MDA)</text>
-    <text x="20" y="165" class="desc-text">• Metabolitos secundarios</text>
+    <text x="20" y="105" class="desc-text">• Osmotic adjustment (Proline)</text>
+    <text x="20" y="125" class="desc-text">• SOD, CAT, APX enzymes</text>
+    <text x="20" y="145" class="desc-text">• Lipid peroxidation (MDA)</text>
+    <text x="20" y="165" class="desc-text">• Secondary metabolites</text>
 
     <!-- Bottom Tag -->
     <rect x="20" y="195" width="160" height="22" rx="5" fill="#240a16" stroke="#ff6b6b" stroke-opacity="0.2" />
@@ -150,7 +150,7 @@
     <circle cx="28" cy="28" r="14" fill="#2ecc71" fill-opacity="0.15" />
     <text x="28" y="33" text-anchor="middle" font-size="14">📊</text>
     
-    <text x="50" y="25" class="card-title" fill="#2ecc71">Integración &amp; SEM</text>
+    <text x="50" y="25" class="card-title" fill="#2ecc71">Integration &amp; SEM</text>
     <text x="50" y="39" class="card-sub">Piecewise SEM &amp; Bayes</text>
 
     <line x1="20" y1="52" x2="180" y2="52" stroke="#17442d" stroke-width="1" />
@@ -162,10 +162,10 @@
     <text x="138" y="74" text-anchor="middle" class="badge-text" fill="#2ecc71">Piecewise SEM</text>
 
     <!-- Description -->
-    <text x="20" y="105" class="desc-text">• Inferencia Bayesiana (MCMC)</text>
-    <text x="20" y="125" class="desc-text">• Bloques sPLS-DA (DIABLO)</text>
-    <text x="20" y="145" class="desc-text">• Modelos Mixtos (LMM/GLMM)</text>
-    <text x="20" y="165" class="desc-text">• Piecewise SEM (Causalidad)</text>
+    <text x="20" y="105" class="desc-text">• Bayesian Inference (MCMC)</text>
+    <text x="20" y="125" class="desc-text">• Multi-block sPLS-DA (DIABLO)</text>
+    <text x="20" y="145" class="desc-text">• Mixed Models (LMM/GLMM)</text>
+    <text x="20" y="165" class="desc-text">• Piecewise SEM (Causality)</text>
 
     <!-- Bottom Tag -->
     <rect x="20" y="195" width="160" height="22" rx="5" fill="#041a12" stroke="#2ecc71" stroke-opacity="0.2" />
